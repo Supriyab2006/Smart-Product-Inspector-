@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sample-1-compliant",
+    "name": "Case 1: Fully Compliant Indian Packaged Snack",
+    "description": "Standard packaged food with all 10 Legal Metrology declarations, valid 890 GS1 India barcode, FSSAI 14-digit number, metric units, and consumer care details.",
+    "expected_verdict": "COMPLIANT",
+    "expected_score": 100,
+    "raw_text": "HALDIRAM'S\nALOO BHUJIA\nCrispy Potato & Gram Flour Spiced Sticks\nIngredients: Potato (44%), Edible Vegetable Oil (Palmolein), Gram Pulse Flour (12%), Tepary Bean Flour, Iodised Salt, Red Chilli, Black Pepper, Dry Ginger, Cardamom, Clove Oil, Citric Acid (E330).\nNet Quantity: 200 g\nMRP: Rs. 60.00 (inclusive of all taxes)\nMfg. Date: 15/10/2026\nBest Before: 6 months from packaging\nManufactured by: Haldiram Snacks Pvt. Ltd., Plot No. 11, Industrial Area, Noida, Gautam Budh Nagar, Uttar Pradesh - 201301, India.\nCustomer Care: 1800-425-1947, email: customercare@haldirams.com\nCountry of Origin: Made in India\nFSSAI Lic. No. 10012011000123\nBarcode: 8901058852332"
+  },
+  {
+    "id": "sample-2-missing-mrp",
+    "name": "Case 2: Missing MRP & Taxes (Imported Chocolate)",
+    "description": "Imported chocolate label lacking mandatory Indian MRP with 'inclusive of all taxes' declaration under Rule 6(1)(e).",
+    "expected_verdict": "PARTIALLY COMPLIANT",
+    "expected_score": 75,
+    "raw_text": "SWISS ALPS\nPREMIUM DARK CHOCOLATE 70%\nIngredients: Cocoa Solids, Cocoa Butter, Sugar, Soy Lecithin (E322), Bourbon Vanilla.\nNet Quantity: 100 g\nMfg. Date: 01/09/2026\nBest Before: 01/09/2027\nManufactured by: Chocolatier Suisse SA, Rue des Alpes 45, 8001 Zurich, Switzerland.\nImported by: Global Confectionery Imports Ltd., Lower Parel, Mumbai - 400013, India.\nCustomer Care: care@globalimports.in, Tel: 022-24901122\nCountry of Origin: Switzerland\nFSSAI Lic. No. 10015022000888\nBarcode: 7610123456789"
+  },
+  {
+    "id": "sample-3-wrong-unit",
+    "name": "Case 3: Non-Metric Unit (Imperial oz Alone)",
+    "description": "Peanut butter jar declaring net quantity only in imperial ounces (16 oz) without mandatory metric units (g/kg), violating Rule 6(1)(c) and Rule 12.",
+    "expected_verdict": "PARTIALLY COMPLIANT",
+    "expected_score": 75,
+    "raw_text": "NUTTY DELIGHT\nCRUNCHY PEANUT BUTTER\nIngredients: Roasted Peanuts (90%), Vegetable Oil, Cane Sugar, Salt.\nNet Quantity: 16 oz\nMRP: Rs. 299.00 (inclusive of all taxes)\nMfg. Date: 12/08/2026\nBest Before: 12 months from mfg date\nManufactured by: American Harvest Foods, 452 Industrial Highway, Atlanta, GA, USA.\nImported by: NutriFoods Retail India Pvt Ltd, Whitefield, Bengaluru - 560066.\nCustomer Care: 1800-200-9988, care@nutrifoods.in\nCountry of Origin: USA\nFSSAI Lic. No. 10016043000512\nBarcode: 012345678905"
+  },
+  {
+    "id": "sample-4-invalid-barcode",
+    "name": "Case 4: Corrupted Barcode Checksum",
+    "description": "Ready-to-eat noodles package with an invalid EAN-13 check digit that fails the GS1 Modulo-10 checksum validation.",
+    "expected_verdict": "PARTIALLY COMPLIANT",
+    "expected_score": 85,
+    "raw_text": "NOODLE EXPRESS\nMASALA INSTANT NOODLES\nIngredients: Refined Wheat Flour (Maida), Palm Oil, Iodised Salt, Wheat Gluten, Spices (Onion, Turmeric, Cumin, Chilli), Acidity Regulator (E330).\nNet Quantity: 70 g\nMRP: Rs. 15.00 (inclusive of all taxes)\nMfg. Date: 20/09/2026\nBest Before: 9 months from mfg date\nManufactured by: Quick Food Solutions Ltd., Sector 62, Gurugram, Haryana - 122001, India.\nCustomer Care: 1800-111-222, support@noodleexpress.in\nCountry of Origin: Made in India\nFSSAI Lic. No. 10014064000333\nBarcode: 8901234567899"
+  },
+  {
+    "id": "sample-5-banned-ingredient",
+    "name": "Case 5: Prohibited Ingredient (Potassium Bromate in Bread)",
+    "description": "Bakery white sliced bread declaring Potassium Bromate (E924), which is strictly banned in India since 2016 and internationally due to carcinogenic risks.",
+    "expected_verdict": "NON-COMPLIANT",
+    "expected_score": 50,
+    "raw_text": "GOLDEN CRUST\nWHITE SLICED BREAD\nIngredients: Refined Wheat Flour (Maida), Water, Sugar, Yeast, Edible Vegetable Oil, Iodised Salt, Flour Treatment Agent (Potassium Bromate E924), Preservative (E282).\nNet Quantity: 400 g\nMRP: Rs. 40.00\nMfg. Date: 21/11/2026\nBest Before: 5 days from packaging\nManufactured by: Golden Crust Bakers, Okhla Phase III, New Delhi - 110020, India.\nCustomer Care: 011-26810099, contact@goldencrust.com\nCountry of Origin: Made in India\nFSSAI Lic. No. 10013011000999\nBarcode: 8906001234567"
+  }
+]

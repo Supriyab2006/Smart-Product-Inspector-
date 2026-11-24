@@ -1,0 +1,368 @@
+[
+  {
+    "id": "REG-001",
+    "ingredient": "Potassium Bromate",
+    "used_in": "Bread, bakery products, commercial flour treatment",
+    "banned_in": [
+      "India",
+      "European Union",
+      "UK",
+      "Canada",
+      "Australia",
+      "Japan"
+    ],
+    "restricted_in": [
+      "USA"
+    ],
+    "reason": "Recognized Category 2B carcinogen causing renal and thyroid tumors in animal bioassays. Banned by FSSAI in India in 2016.",
+    "status": "BANNED IN FOOD",
+    "source": "FSSAI Notification No. 1-110/SP(Water & Beverages)/A&P/FSSAI/2016; EFSA Scientific Opinion",
+    "year": 2016
+  },
+  {
+    "id": "REG-002",
+    "ingredient": "Titanium Dioxide (E171)",
+    "used_in": "Food colorant in candies, chewing gum, pastries, white sauces, cake decorations",
+    "banned_in": [
+      "European Union"
+    ],
+    "restricted_in": [
+      "India",
+      "USA",
+      "UK"
+    ],
+    "reason": "EFSA concluded in 2021 that E171 can no longer be considered safe as a food additive due to genotoxicity concerns (nanoparticles accumulating in DNA).",
+    "status": "BANNED IN FOOD (EU)",
+    "source": "EFSA Journal 2021;19(5):6585 / Commission Regulation (EU) 2022/63",
+    "year": 2022
+  },
+  {
+    "id": "REG-003",
+    "ingredient": "Brominated Vegetable Oil (BVO / E443)",
+    "used_in": "Fruit-flavored citrus sodas and sports drinks as a weighting agent / emulsifier",
+    "banned_in": [
+      "India",
+      "European Union",
+      "UK",
+      "Japan",
+      "USA"
+    ],
+    "restricted_in": [
+      "Canada"
+    ],
+    "reason": "Bioaccumulates in body fat; animal toxicology demonstrates thyroid dysfunction, myocardial lesions, and neuro-behavioral impairment. US FDA finalized prohibition in July 2024.",
+    "status": "GLOBALLY BANNED",
+    "source": "US FDA Final Rule 89 FR 55040 (July 2024); FSSAI Food Safety & Standards (Prohibition and Restrictions on Sales) Regulations",
+    "year": 2024
+  },
+  {
+    "id": "REG-004",
+    "ingredient": "Azodicarbonamide (ADA / E927a)",
+    "used_in": "Dough conditioner in burger buns, pizza dough, yoga mats/foamed plastics",
+    "banned_in": [
+      "European Union",
+      "UK",
+      "Australia",
+      "Singapore"
+    ],
+    "restricted_in": [
+      "USA",
+      "India"
+    ],
+    "reason": "Breaks down during baking into semicarbazide (carcinogen in animal bioassays) and ethyl carbamate. Strict bans in Europe and Australia.",
+    "status": "BANNED IN FOOD (EU/UK/AUS)",
+    "source": "UK Food Standards Agency / EFSA Scientific Committee; Singapore Agri-Food & Veterinary Authority",
+    "year": 2014
+  },
+  {
+    "id": "REG-005",
+    "ingredient": "Red Dye No. 3 (Erythrosine / E127)",
+    "used_in": "Maraschino cherries, cake icing, sausage casings, cough syrups",
+    "banned_in": [
+      "European Union (except cocktail cherries)",
+      "USA (California 2027)"
+    ],
+    "restricted_in": [
+      "India",
+      "USA (Federal)"
+    ],
+    "reason": "Causes thyroid follicular tumors in laboratory rats. Banned in cosmetics and externally applied drugs by US FDA since 1990; food phase-out in California Food Safety Act.",
+    "status": "BANNED IN COSMETICS / RESTRICTED IN FOOD",
+    "source": "California AB 418 (California Food Safety Act); EU Directive 94/36/EC",
+    "year": 2023
+  },
+  {
+    "id": "REG-006",
+    "ingredient": "Ractopamine",
+    "used_in": "Feed additive to promote leanness in swine and cattle meat production",
+    "banned_in": [
+      "India",
+      "European Union",
+      "China",
+      "Russia",
+      "UK"
+    ],
+    "restricted_in": [
+      "USA",
+      "Canada"
+    ],
+    "reason": "Beta-agonist that causes tachycardia, muscle tremors, and acute cardiac stress in animals and humans consuming meat residues.",
+    "status": "BANNED IN 160+ COUNTRIES",
+    "source": "European Food Safety Authority (EFSA) Journal (2009) 1041, 1-52; Codex Alimentarius standard split",
+    "year": 2012
+  },
+  {
+    "id": "REG-007",
+    "ingredient": "Recombinant Bovine Growth Hormone (rBGH / rBST)",
+    "used_in": "Synthetic hormone injected into dairy cows to artificially inflate milk yield",
+    "banned_in": [
+      "India",
+      "European Union",
+      "Canada",
+      "Australia",
+      "New Zealand",
+      "Japan"
+    ],
+    "restricted_in": [
+      "USA"
+    ],
+    "reason": "Elevates IGF-1 (Insulin-like Growth Factor 1) in cow's milk linked to prostate and breast oncogenesis; causes severe mastitis and lameness in dairy herds.",
+    "status": "BANNED IN DAIRY HERDS",
+    "source": "Health Canada rBST Assessment; EU Council Decision 1999/879/EC",
+    "year": 1999
+  },
+  {
+    "id": "REG-008",
+    "ingredient": "Hydroquinone",
+    "used_in": "Skin lightening, bleaching creams, and depigmentation serums",
+    "banned_in": [
+      "European Union",
+      "UK",
+      "Japan",
+      "Australia"
+    ],
+    "restricted_in": [
+      "India (Schedule H Prescription Only)",
+      "USA (Prescription Only)"
+    ],
+    "reason": "Cytotoxic to melanocytes; prolonged application causes irreversible Exogenous Ochronosis (disfiguring blue-black tissue hyperpigmentation) and potential carcinogenicity.",
+    "status": "BANNED IN OTC COSMETICS",
+    "source": "EU Cosmetics Regulation (EC) No 1223/2009 Annex II Entry 1339; CDSCO Drug Safety Notices",
+    "year": 2001
+  },
+  {
+    "id": "REG-009",
+    "ingredient": "Mercury and Mercury Compounds",
+    "used_in": "Illegal fairness creams, anti-blemish pastes, skin whitening soaps",
+    "banned_in": [
+      "India",
+      "European Union",
+      "USA",
+      "UK",
+      "Canada",
+      "Australia",
+      "Japan"
+    ],
+    "restricted_in": [],
+    "reason": "Severe neurotoxin and nephrotoxic heavy metal that permanently impairs kidney filtration and damages developing fetal nervous systems.",
+    "status": "PROHIBITED GLOBALLY (MINAMATA CONVENTION)",
+    "source": "Minamata Convention on Mercury (UNEP); Bureau of Indian Standards IS 4707 (Part 2)",
+    "year": 2013
+  },
+  {
+    "id": "REG-010",
+    "ingredient": "Lead and Lead Compounds (e.g. Lead Acetate)",
+    "used_in": "Progressive hair dye formulations, traditional kohl/kajal, counterfeit lipsticks",
+    "banned_in": [
+      "European Union",
+      "Canada",
+      "USA",
+      "India"
+    ],
+    "restricted_in": [],
+    "reason": "Potent cumulative neurotoxin with no known safe human threshold; causes irreversible cognitive decline, behavioral disorders, and reproductive toxicity.",
+    "status": "BANNED IN COSMETICS",
+    "source": "US FDA Ban on Lead Acetate in Hair Dyes (21 CFR Part 73); BIS IS 4707 Indian Cosmetic Standard",
+    "year": 2021
+  },
+  {
+    "id": "REG-011",
+    "ingredient": "Isobutylparaben & Isopropylparaben",
+    "used_in": "Cosmetic preservative systems in lotions, shampoos, and leave-on face creams",
+    "banned_in": [
+      "European Union",
+      "ASEAN",
+      "UK"
+    ],
+    "restricted_in": [
+      "USA",
+      "India"
+    ],
+    "reason": "Scientific Committee on Consumer Safety (SCCS) established significant endocrine disruption and estrogenic receptor affinity impairing fertility and fetal development.",
+    "status": "BANNED IN COSMETICS (EU)",
+    "source": "Commission Regulation (EU) No 358/2014 amending Annex II to Regulation (EC) No 1223/2009",
+    "year": 2014
+  },
+  {
+    "id": "REG-012",
+    "ingredient": "Zinc Pyrithione (ZPT)",
+    "used_in": "Anti-dandruff shampoos, hair conditioners, and scalp rinses",
+    "banned_in": [
+      "European Union",
+      "UK"
+    ],
+    "restricted_in": [
+      "India",
+      "USA",
+      "Japan"
+    ],
+    "reason": "Reclassified under EU CLP Regulation as a Reprotoxic Category 1B substance; banned across all cosmetic categories in the European Union since March 2022.",
+    "status": "BANNED IN COSMETICS (EU/UK)",
+    "source": "Commission Regulation (EU) 2021/1902; SCCS/1614/20 Opinion",
+    "year": 2022
+  },
+  {
+    "id": "REG-013",
+    "ingredient": "Chewing Gum (Import and Sale)",
+    "used_in": "Masticatory confectionery gums",
+    "banned_in": [
+      "Singapore (General commercial import/sale)"
+    ],
+    "restricted_in": [
+      "Singapore (Therapeutic / Dental nicotine allowed on prescription)"
+    ],
+    "reason": "Banned in 1992 under the Control of Manufacture Act to halt widespread civic vandalism disrupting Mass Rapid Transit (MRT) sensors and public cleaning.",
+    "status": "COMMERCIAL IMPORT/SALE PROHIBITED",
+    "source": "Singapore Statutes Cap. 57, Control of Manufacture Act (Statutory Order 1992)",
+    "year": 1992
+  },
+  {
+    "id": "REG-014",
+    "ingredient": "Cyclamate (E952 / Sodium Cyclamate)",
+    "used_in": "Artificial non-caloric sweetener in jams, sodas, and diet candies",
+    "banned_in": [
+      "USA"
+    ],
+    "restricted_in": [
+      "European Union",
+      "India",
+      "UK",
+      "Canada"
+    ],
+    "reason": "Banned by US FDA in 1969 following scientific studies demonstrating bladder tumors in laboratory rodents when administered with saccharin.",
+    "status": "BANNED IN FOOD (USA)",
+    "source": "US FDA 21 CFR 189.135 (Substances Prohibited from Use in Human Food)",
+    "year": 1969
+  },
+  {
+    "id": "REG-015",
+    "ingredient": "BHA (Butylated Hydroxyanisole / E320)",
+    "used_in": "Processed meats, butter, edible cooking fats, potato chips, snack packaging",
+    "banned_in": [
+      "European Union (baby foods and infant nutrition)"
+    ],
+    "restricted_in": [
+      "USA",
+      "India",
+      "UK",
+      "Japan"
+    ],
+    "reason": "Classified as reasonably anticipated to be a human carcinogen by the US National Toxicology Program; induces papillomas and squamoid lesions in animal forestomachs.",
+    "status": "RESTRICTED / PROHIBITED IN BABY FOODS",
+    "source": "NTP 15th Report on Carcinogens; IARC Monograph Vol 40; EFSA ANS Panel (2011)",
+    "year": 2011
+  },
+  {
+    "id": "REG-016",
+    "ingredient": "Triclosan",
+    "used_in": "Antibacterial liquid soaps, body washes, medical washes, certain toothpastes",
+    "banned_in": [
+      "USA (Consumer hand washes)",
+      "European Union (Leave-on cosmetics)"
+    ],
+    "restricted_in": [
+      "India",
+      "Canada",
+      "Australia"
+    ],
+    "reason": "US FDA ruled manufacturers failed to prove safety for daily use; accelerates antimicrobial bacterial resistance, disrupts thyroid hormone metabolism, and bioaccumulates.",
+    "status": "BANNED IN OVER-THE-COUNTER CONSUMER ANTISEPTIC WASHES",
+    "source": "US FDA Final Rule 81 FR 61106 (Safety and Effectiveness of Consumer Antiseptics)",
+    "year": 2016
+  },
+  {
+    "id": "REG-017",
+    "ingredient": "Octinoxate & Oxybenzone",
+    "used_in": "Chemical sunscreens, beach lotions, anti-aging SPF moisturizers",
+    "banned_in": [
+      "Palau",
+      "Hawaii (USA)",
+      "US Virgin Islands",
+      "Key West (USA)",
+      "Bonaire",
+      "Thailand Marine Parks"
+    ],
+    "restricted_in": [
+      "European Union (Concentration limits lowered)"
+    ],
+    "reason": "Documented coral reef ecotoxicity: causes lethal coral larval deformation, induces severe bleaching at low parts-per-billion concentrations, and disrupts marine ecosystems.",
+    "status": "BANNED IN ECO-SENSITIVE COASTAL JURISDICTIONS",
+    "source": "Palau Responsible Tourism Education Act; Hawaii Senate Bill 2571; Archives of Environmental Contamination and Toxicology",
+    "year": 2021
+  },
+  {
+    "id": "REG-018",
+    "ingredient": "Dibutyl Phthalate (DBP) & DEHP",
+    "used_in": "Nail polishes, plasticizer perfumes, hairsprays, vinyl packaging",
+    "banned_in": [
+      "European Union",
+      "UK",
+      "Canada",
+      "India (Cosmetics)"
+    ],
+    "restricted_in": [
+      "USA"
+    ],
+    "reason": "Recognized reproductive and developmental toxicant; anti-androgenic activity induces testicular dysgenesis syndrome and congenital defects in male infants.",
+    "status": "BANNED IN COSMETICS (EU/UK/IN)",
+    "source": "EU Cosmetics Directive 76/768/EEC; BIS Indian Cosmetic Compendium IS 4707",
+    "year": 2004
+  },
+  {
+    "id": "REG-019",
+    "ingredient": "Formaldehyde & Formaldehyde Releasers (DMDM Hydantoin, Quaternium-15)",
+    "used_in": "Brazilian blowout hair straightening treatments, baby shampoos, nail hardeners",
+    "banned_in": [
+      "European Union",
+      "UK",
+      "Canada (Hair smoothing)"
+    ],
+    "restricted_in": [
+      "USA (OSHA air limits, FDA hair smoothing ban pending)",
+      "India"
+    ],
+    "reason": "Classified as IARC Group 1 known human carcinogen linked to nasopharyngeal cancer and myeloid leukemia; severe respiratory and cutaneous allergen.",
+    "status": "BANNED IN COSMETICS (EU)",
+    "source": "Commission Regulation (EU) 2019/831 Annex II; IARC Monograph 100F",
+    "year": 2019
+  },
+  {
+    "id": "REG-020",
+    "ingredient": "Kava Kava (Piper methysticum)",
+    "used_in": "Dietary herbal supplements, calming teas, relaxation beverages",
+    "banned_in": [
+      "European Union (historical pharmaceutical bans)",
+      "UK",
+      "Canada"
+    ],
+    "restricted_in": [
+      "USA",
+      "Australia",
+      "India"
+    ],
+    "reason": "Severe hepatotoxicity including irreversible acute liver failure, hepatitis, and fatalities leading to emergency organ transplants.",
+    "status": "RESTRICTED / BANNED SUPPLEMENT IN SEVERAL JURISDICTIONS",
+    "source": "German Federal Institute for Drugs and Medical Devices (BfArM); UK MHRA Herb Safety",
+    "year": 2002
+  }
+]

@@ -1,0 +1,2738 @@
+[
+  {
+    "id": "ITM-001",
+    "name": "Aloo Bhujia Spicy Mint & Potato Sticks",
+    "brand": "Haldiram's",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "200 g",
+    "mrp": "Rs. 60.00 (incl. of all taxes)",
+    "barcode": "8904004400128",
+    "ingredients": [
+      "Potato",
+      "Edible Vegetable Oil (Palmolein)",
+      "Gram Pulse Flour",
+      "Tepary Bean Flour",
+      "Iodised Salt",
+      "Red Chilli",
+      "Black Pepper",
+      "Dry Ginger",
+      "Cardamom",
+      "Clove Oil",
+      "Citric Acid"
+    ],
+    "score": 52,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-002",
+    "name": "Classic Salted Potato Chips",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "50 g",
+    "mrp": "Rs. 20.00 (inclusive of all taxes)",
+    "barcode": "8901491101837",
+    "ingredients": [
+      "Potato",
+      "Edible Vegetable Oil (Palmolein)",
+      "Iodised Salt"
+    ],
+    "score": 48,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-003",
+    "name": "Masala Munch Kurkure",
+    "brand": "Kurkure",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "82 g",
+    "mrp": "Rs. 20.00 (incl. of all taxes)",
+    "barcode": "8901491103213",
+    "ingredients": [
+      "Rice Meal",
+      "Edible Vegetable Oil (Palmolein)",
+      "Corn Meal",
+      "Gram Meal",
+      "Spices and Condiments (Onion Powder, Chilli Powder, Amchur, Coriander, Black Pepper, Garlic Powder, Turmeric)",
+      "Iodised Salt",
+      "Citric Acid",
+      "Tartaric Acid"
+    ],
+    "score": 45,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-004",
+    "name": "Moong Dal Crispy Salted Snack",
+    "brand": "Bikaji",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "350 g",
+    "mrp": "Rs. 110.00 (inclusive of all taxes)",
+    "barcode": "8906004981024",
+    "ingredients": [
+      "Split Green Gram (Moong Dal)",
+      "Edible Vegetable Oil (Palmolein)",
+      "Iodised Salt"
+    ],
+    "score": 68,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-005",
+    "name": "Khatta Meetha Mixture Sweet & Sour Snack",
+    "brand": "Haldiram's",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "400 g",
+    "mrp": "Rs. 105.00 (inclusive of all taxes)",
+    "barcode": "8904004400586",
+    "ingredients": [
+      "Gram Pulse Flour",
+      "Edible Vegetable Oil (Palmolein)",
+      "Rice Flakes",
+      "Sugar",
+      "Green Peas",
+      "Peanuts",
+      "Sago",
+      "Lentils",
+      "Iodised Salt",
+      "Citric Acid",
+      "Turmeric"
+    ],
+    "score": 49,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Peanuts"
+    ]
+  },
+  {
+    "id": "ITM-006",
+    "name": "Roasted California Almonds Lightly Salted",
+    "brand": "Happilo",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "200 g",
+    "mrp": "Rs. 299.00 (inclusive of all taxes)",
+    "barcode": "8906081190111",
+    "ingredients": [
+      "Almonds",
+      "Iodised Salt"
+    ],
+    "score": 88,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Tree Nuts"
+    ]
+  },
+  {
+    "id": "ITM-007",
+    "name": "Cashews Slow Roasted & Salted",
+    "brand": "Nutraj",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "250 g",
+    "mrp": "Rs. 380.00 (inclusive of all taxes)",
+    "barcode": "8904038101459",
+    "ingredients": [
+      "Cashews",
+      "Iodised Salt"
+    ],
+    "score": 84,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Tree Nuts"
+    ]
+  },
+  {
+    "id": "ITM-008",
+    "name": "Peri Peri Multigrain Roasted Chips",
+    "brand": "Too Yumm!",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "90 g",
+    "mrp": "Rs. 40.00 (inclusive of all taxes)",
+    "barcode": "8906090571024",
+    "ingredients": [
+      "Rice Flour",
+      "Corn Flour",
+      "Ragi Flour",
+      "Oat Flour",
+      "Edible Vegetable Oil (Sunflower)",
+      "Peri Peri Seasoning (Chilli, Garlic, Onion, Black Pepper)",
+      "Iodised Salt",
+      "Citric Acid"
+    ],
+    "score": 72,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-009",
+    "name": "Spanish Tomato Tango Potato Crisps",
+    "brand": "Lay's",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "50 g",
+    "mrp": "Rs. 20.00 (inclusive of all taxes)",
+    "barcode": "8901491101905",
+    "ingredients": [
+      "Potato",
+      "Edible Vegetable Oil (Palmolein)",
+      "Sugar",
+      "Iodised Salt",
+      "Tomato Powder",
+      "Citric Acid",
+      "Spices and Condiments"
+    ],
+    "score": 46,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-010",
+    "name": "Mad Angles Achaari Masti",
+    "brand": "Bingo!",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "66 g",
+    "mrp": "Rs. 20.00 (inclusive of all taxes)",
+    "barcode": "8901725134102",
+    "ingredients": [
+      "Rice Grits",
+      "Seasoning (Mango Powder, Red Chilli, Black Salt, Cumin)",
+      "Edible Vegetable Oil (Palmolein)",
+      "Corn Grits",
+      "Gram Grits",
+      "Iodised Salt",
+      "Acidity Regulator (330)"
+    ],
+    "score": 47,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-011",
+    "name": "Premium Salted Makhana (Foxnuts)",
+    "brand": "Farmley",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "100 g",
+    "mrp": "Rs. 160.00 (inclusive of all taxes)",
+    "barcode": "8908012398114",
+    "ingredients": [
+      "Foxnuts (Makhana)",
+      "Edible Vegetable Oil (Olive Oil)",
+      "Himalayan Pink Salt"
+    ],
+    "score": 92,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-012",
+    "name": "Bhujia Sev Rajasthani Recipe",
+    "brand": "Bikanervala",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "400 g",
+    "mrp": "Rs. 120.00 (inclusive of all taxes)",
+    "barcode": "8906014290117",
+    "ingredients": [
+      "Moth Dal Flour",
+      "Gram Flour",
+      "Edible Vegetable Oil (Palmolein)",
+      "Iodised Salt",
+      "Red Chilli",
+      "Black Pepper",
+      "Cardamom",
+      "Clove"
+    ],
+    "score": 53,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-013",
+    "name": "Salted Banana Chips Kerala Style in Coconut Oil",
+    "brand": "Beyond Snack",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "100 g",
+    "mrp": "Rs. 65.00 (inclusive of all taxes)",
+    "barcode": "8908015923016",
+    "ingredients": [
+      "Raw Banana",
+      "Coconut Oil",
+      "Rock Salt"
+    ],
+    "score": 75,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-014",
+    "name": "Puffed Quinoa & Millets Herb Crunch",
+    "brand": "The Green Snack Co.",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "70 g",
+    "mrp": "Rs. 99.00 (inclusive of all taxes)",
+    "barcode": "8908005432098",
+    "ingredients": [
+      "Quinoa",
+      "Ragi",
+      "Jowar",
+      "Cold Pressed Sunflower Oil",
+      "Oregano",
+      "Basil",
+      "Iodised Salt"
+    ],
+    "score": 86,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-015",
+    "name": "Tangy Tomato Potato Rings",
+    "brand": "Peppy",
+    "category": "Snacks",
+    "type": "food",
+    "net_quantity": "75 g",
+    "mrp": "Rs. 30.00 (inclusive of all taxes)",
+    "barcode": "8901262010190",
+    "ingredients": [
+      "Potato Flour",
+      "Edible Vegetable Oil (Palmolein)",
+      "Wheat Flour",
+      "Sugar",
+      "Iodised Salt",
+      "Tomato Powder",
+      "Citric Acid"
+    ],
+    "score": 44,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-016",
+    "name": "2-Minute Masala Instant Noodles",
+    "brand": "Maggi",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "70 g",
+    "mrp": "Rs. 14.00 (inclusive of all taxes)",
+    "barcode": "8901058852332",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Palm Oil",
+      "Iodised Salt",
+      "Wheat Gluten",
+      "Mineral (Calcium Carbonate)",
+      "Thickener (508)",
+      "Acidity Regulators (501i, 500i)",
+      "Hydrolysed Groundnut Protein",
+      "Spices (Onion, Coriander, Turmeric, Cumin, Aniseed, Black Pepper, Fenugreek, Ginger, Clove, Nutmeg, Cardamom)",
+      "Sugar",
+      "Dehydrated Kasuri Methi"
+    ],
+    "score": 38,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Gluten",
+      "Peanuts"
+    ]
+  },
+  {
+    "id": "ITM-017",
+    "name": "Sunfeast Yippee! Magic Masala Noodles",
+    "brand": "Yippee!",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "240 g",
+    "mrp": "Rs. 50.00 (inclusive of all taxes)",
+    "barcode": "8901725132016",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Refined Palm Oil",
+      "Iodised Salt",
+      "Wheat Gluten",
+      "Tomato Powder",
+      "Onion Powder",
+      "Garlic Powder",
+      "Hydrolysed Vegetable Protein",
+      "Flavor Enhancers (627, 631)"
+    ],
+    "score": 36,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-018",
+    "name": "100% Whole Wheat Atta Superior Sharbati",
+    "brand": "Aashirvaad",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "5 kg",
+    "mrp": "Rs. 285.00 (inclusive of all taxes)",
+    "barcode": "8901725121010",
+    "ingredients": [
+      "Whole Wheat Flour"
+    ],
+    "score": 95,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-019",
+    "name": "Nutri-Choice Rolled Oats 100% Wholegrain",
+    "brand": "Quaker",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "1 kg",
+    "mrp": "Rs. 190.00 (inclusive of all taxes)",
+    "barcode": "8901491102506",
+    "ingredients": [
+      "Rolled Oats"
+    ],
+    "score": 96,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-020",
+    "name": "Kissan Fresh Tomato Ketchup",
+    "brand": "Kissan",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "950 g",
+    "mrp": "Rs. 145.00 (inclusive of all taxes)",
+    "barcode": "8901030382017",
+    "ingredients": [
+      "Water",
+      "Tomato Paste (26%)",
+      "Sugar",
+      "Iodised Salt",
+      "Acidity Regulator (260)",
+      "Thickeners (1422, 415)",
+      "Preservative (211)",
+      "Spices and Condiments"
+    ],
+    "score": 42,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-021",
+    "name": "Original Peanut Butter Creamy",
+    "brand": "Pintola",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "1 kg",
+    "mrp": "Rs. 399.00 (inclusive of all taxes)",
+    "barcode": "8906103110058",
+    "ingredients": [
+      "Roasted Peanuts"
+    ],
+    "score": 90,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Peanuts"
+    ]
+  },
+  {
+    "id": "ITM-022",
+    "name": "Organic Honey 100% Pure & Raw",
+    "brand": "Dabur",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "500 g",
+    "mrp": "Rs. 230.00 (inclusive of all taxes)",
+    "barcode": "8901207010117",
+    "ingredients": [
+      "Pure Honey"
+    ],
+    "score": 78,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-023",
+    "name": "Chocos Crunchy Whole Grain Cereal",
+    "brand": "Kellogg's",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "375 g",
+    "mrp": "Rs. 185.00 (inclusive of all taxes)",
+    "barcode": "8901499008206",
+    "ingredients": [
+      "Whole Wheat Flour (29%)",
+      "Wheat Flour (Maida)",
+      "Sugar",
+      "Cocoa Solids (5.4%)",
+      "Edible Vegetable Oil (Palmolein)",
+      "Iodised Salt",
+      "Caramel Color (150d)",
+      "Vitamins and Minerals"
+    ],
+    "score": 48,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-024",
+    "name": "Top Ramen Curry Smelly & Saucy Noodles",
+    "brand": "Nissin",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "280 g",
+    "mrp": "Rs. 60.00 (inclusive of all taxes)",
+    "barcode": "8901014002016",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Edible Vegetable Oil (Palm Oil)",
+      "Iodised Salt",
+      "Curry Seasoning (Coriander, Cumin, Fenugreek, Turmeric)",
+      "Flavor Enhancers (627, 631)",
+      "Acidity Regulator (330)"
+    ],
+    "score": 37,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-025",
+    "name": "Ready-To-Eat Dal Makhani North Indian",
+    "brand": "MTR",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "300 g",
+    "mrp": "Rs. 110.00 (inclusive of all taxes)",
+    "barcode": "8901042971032",
+    "ingredients": [
+      "Water",
+      "Black Gram (Urad Dal)",
+      "Butter",
+      "Tomato Paste",
+      "Cream",
+      "Red Kidney Beans (Rajma)",
+      "Ginger",
+      "Iodised Salt",
+      "Garlic",
+      "Spices"
+    ],
+    "score": 71,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-026",
+    "name": "Italian Pasta Penne Rigate 100% Durum Wheat",
+    "brand": "Disano",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "500 g",
+    "mrp": "Rs. 135.00 (inclusive of all taxes)",
+    "barcode": "8906040850117",
+    "ingredients": [
+      "Durum Wheat Semolina (Suji)"
+    ],
+    "score": 85,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-027",
+    "name": "Nutella Hazelnut Spread with Cocoa",
+    "brand": "Ferrero",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "350 g",
+    "mrp": "Rs. 390.00 (inclusive of all taxes)",
+    "barcode": "8000500179862",
+    "ingredients": [
+      "Sugar",
+      "Palm Oil",
+      "Hazelnuts (13%)",
+      "Skimmed Milk Powder (8.7%)",
+      "Low-fat Cocoa (7.4%)",
+      "Soy Lecithin (E322)",
+      "Vanillin"
+    ],
+    "score": 32,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Tree Nuts",
+      "Milk",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-028",
+    "name": "Schezwan Chutney Spicy Dip",
+    "brand": "Ching's Secret",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "250 g",
+    "mrp": "Rs. 85.00 (inclusive of all taxes)",
+    "barcode": "8901595851126",
+    "ingredients": [
+      "Water",
+      "Garlic",
+      "Ginger",
+      "Red Chilli",
+      "Sunflower Oil",
+      "Tomato Paste",
+      "Iodised Salt",
+      "Sugar",
+      "Soy Sauce",
+      "Disodium Inosinate (631)",
+      "Disodium Guanylate (627)",
+      "Sodium Benzoate (211)"
+    ],
+    "score": 41,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Soy",
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-029",
+    "name": "Pure Desi Ghee Golden Vedic Danedar",
+    "brand": "Amul",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "1 L",
+    "mrp": "Rs. 610.00 (inclusive of all taxes)",
+    "barcode": "8901262010053",
+    "ingredients": [
+      "Milk Fat (Pure Clarified Butter)"
+    ],
+    "score": 75,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-030",
+    "name": "Extra Virgin Olive Oil Cold Pressed",
+    "brand": "Borges",
+    "category": "Packaged Food",
+    "type": "food",
+    "net_quantity": "500 ml",
+    "mrp": "Rs. 750.00 (inclusive of all taxes)",
+    "barcode": "8410179010035",
+    "ingredients": [
+      "100% Extra Virgin Olive Oil"
+    ],
+    "score": 94,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-031",
+    "name": "Coca-Cola Original Taste Sparkling Beverage",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "750 ml",
+    "mrp": "Rs. 40.00 (inclusive of all taxes)",
+    "barcode": "8901764012218",
+    "ingredients": [
+      "Carbonated Water",
+      "Sugar",
+      "Acidity Regulator (338 - Phosphoric Acid)",
+      "Caramel Color (150d)",
+      "Natural Flavours",
+      "Caffeine"
+    ],
+    "score": 25,
+    "health_verdict": "UNHEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-032",
+    "name": "Diet Coke Sugar-Free Low Calorie",
+    "brand": "Coca-Cola",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "300 ml",
+    "mrp": "Rs. 40.00 (inclusive of all taxes)",
+    "barcode": "8901764021029",
+    "ingredients": [
+      "Carbonated Water",
+      "Caramel Color (150d)",
+      "Acidity Regulator (338, 330)",
+      "Aspartame (951)",
+      "Acesulfame Potassium (950)",
+      "Preservative (211)",
+      "Caffeine"
+    ],
+    "score": 45,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-033",
+    "name": "Pepsi Max Zero Sugar",
+    "brand": "Pepsi",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "250 ml",
+    "mrp": "Rs. 35.00 (inclusive of all taxes)",
+    "barcode": "8902080000405",
+    "ingredients": [
+      "Carbonated Water",
+      "Caramel Color (150d)",
+      "Acidity Regulators (338, 330)",
+      "Sweeteners (951, 950)",
+      "Preservative (211)",
+      "Caffeine"
+    ],
+    "score": 44,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-034",
+    "name": "Red Bull Energy Drink",
+    "brand": "Red Bull",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "250 ml",
+    "mrp": "Rs. 125.00 (inclusive of all taxes)",
+    "barcode": "9002490100070",
+    "ingredients": [
+      "Water",
+      "Sucrose",
+      "Glucose",
+      "Citric Acid",
+      "Carbon Dioxide",
+      "Taurine (0.4%)",
+      "Acidity Regulator (Sodium Bicarbonate)",
+      "Caffeine (0.03%)",
+      "Vitamins (Niacin, B6, B12, Pantothenic Acid)",
+      "Caramel Color"
+    ],
+    "score": 34,
+    "health_verdict": "UNHEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-035",
+    "name": "Frooti Mango Juicy Drink",
+    "brand": "Parle Agro",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "160 ml",
+    "mrp": "Rs. 10.00 (inclusive of all taxes)",
+    "barcode": "8902579100115",
+    "ingredients": [
+      "Water",
+      "Mango Pulp (19%)",
+      "Sugar",
+      "Acidity Regulator (330)",
+      "Antioxidant (300)"
+    ],
+    "score": 42,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-036",
+    "name": "Real Fruit Power 100% Orange Juice",
+    "brand": "Real",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "1 L",
+    "mrp": "Rs. 140.00 (inclusive of all taxes)",
+    "barcode": "8901207005113",
+    "ingredients": [
+      "Water",
+      "Orange Juice Concentrate (100% Reconstituted Fruit Juice)",
+      "Ascorbic Acid (Vitamin C)"
+    ],
+    "score": 76,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-037",
+    "name": "Raw Pressery Cold Pressed Valencia Orange",
+    "brand": "Raw Pressery",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "250 ml",
+    "mrp": "Rs. 90.00 (inclusive of all taxes)",
+    "barcode": "8906065110118",
+    "ingredients": [
+      "100% Cold Pressed Valencia Orange Juice"
+    ],
+    "score": 88,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-038",
+    "name": "Paper Boat Aam Panna Traditional Raw Mango Drink",
+    "brand": "Paper Boat",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "200 ml",
+    "mrp": "Rs. 30.00 (inclusive of all taxes)",
+    "barcode": "8906080600123",
+    "ingredients": [
+      "Water",
+      "Raw Mango Pulp (10%)",
+      "Sugar",
+      "Spices and Condiments (Cumin Powder, Black Salt)",
+      "Iodised Salt",
+      "Lemon Juice Concentrate",
+      "Acidity Regulator (Citric Acid)"
+    ],
+    "score": 62,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-039",
+    "name": "Bournvita Chocolate Health Nutrition Drink",
+    "brand": "Cadbury",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "500 g",
+    "mrp": "Rs. 240.00 (inclusive of all taxes)",
+    "barcode": "8901233010148",
+    "ingredients": [
+      "Cereal Extract (Barley Malt, Wheat)",
+      "Sugar",
+      "Cocoa Solids",
+      "Milk Solids",
+      "Caramel Color (150c)",
+      "Minerals (Calcium, Iron)",
+      "Vitamins (C, B3, B6, B12, D)",
+      "Soy Lecithin (322)"
+    ],
+    "score": 45,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten",
+      "Milk",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-040",
+    "name": "Horlicks Classic Malt Health Drink",
+    "brand": "Horlicks",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "500 g",
+    "mrp": "Rs. 265.00 (inclusive of all taxes)",
+    "barcode": "8901571001116",
+    "ingredients": [
+      "Malted Barley (39%)",
+      "Wheat Flour (27%)",
+      "Milk Solids (14%)",
+      "Sugar",
+      "Minerals",
+      "Iodised Salt",
+      "Acidity Regulators (501ii, 500ii)",
+      "Vitamins"
+    ],
+    "score": 52,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten",
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-041",
+    "name": "Nescafe Classic 100% Pure Instant Coffee",
+    "brand": "Nescafe",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "100 g",
+    "mrp": "Rs. 310.00 (inclusive of all taxes)",
+    "barcode": "8901058850123",
+    "ingredients": [
+      "100% Pure Coffee Beans (Robusta & Arabica Blend)"
+    ],
+    "score": 92,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-042",
+    "name": "Taj Mahal Rich Tea Leaves",
+    "brand": "Brooke Bond",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "500 g",
+    "mrp": "Rs. 340.00 (inclusive of all taxes)",
+    "barcode": "8901030010118",
+    "ingredients": [
+      "Pure Black Tea CTC Granules"
+    ],
+    "score": 96,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-043",
+    "name": "Pure Tender Coconut Water Natural Electrolytes",
+    "brand": "Raw Pressery",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "200 ml",
+    "mrp": "Rs. 60.00 (inclusive of all taxes)",
+    "barcode": "8906065110545",
+    "ingredients": [
+      "100% Natural Coconut Water",
+      "Bio-Preservative (Nisin)"
+    ],
+    "score": 94,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-044",
+    "name": "Alphonso Mango Milkshake",
+    "brand": "Cavins",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "180 ml",
+    "mrp": "Rs. 35.00 (inclusive of all taxes)",
+    "barcode": "8902092100124",
+    "ingredients": [
+      "Standardised Milk",
+      "Sugar",
+      "Mango Pulp (5%)",
+      "Emulsifier (471)",
+      "Stabilizers (407, 412)"
+    ],
+    "score": 50,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-045",
+    "name": "Pure Green Tea Mint Herbal Infusion",
+    "brand": "Tetley",
+    "category": "Beverages",
+    "type": "food",
+    "net_quantity": "50 g (25 tea bags)",
+    "mrp": "Rs. 165.00 (inclusive of all taxes)",
+    "barcode": "8901072001150",
+    "ingredients": [
+      "Green Tea Leaves",
+      "Natural Mint Flavor"
+    ],
+    "score": 97,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-046",
+    "name": "Pasteurised Butter Delicious Salted",
+    "brand": "Amul",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "500 g",
+    "mrp": "Rs. 275.00 (inclusive of all taxes)",
+    "barcode": "8901262010015",
+    "ingredients": [
+      "Butter (Milk Fat 80%)",
+      "Common Salt",
+      "Permitted Natural Color (Annatto E160b)"
+    ],
+    "score": 64,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-047",
+    "name": "Processed Cheese Slices Individually Wrapped",
+    "brand": "Amul",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "200 g (10 slices)",
+    "mrp": "Rs. 145.00 (inclusive of all taxes)",
+    "barcode": "8901262010213",
+    "ingredients": [
+      "Cheese (Cow / Buffalo Milk)",
+      "Milk Solids",
+      "Emulsifiers (Sodium Citrate E331, Sodium Polyphosphate E452i)",
+      "Iodised Salt",
+      "Preservative (Potassium Sorbate E202)"
+    ],
+    "score": 55,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-048",
+    "name": "Greek Yogurt Natural High Protein",
+    "brand": "Epigamia",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "90 g",
+    "mrp": "Rs. 50.00 (inclusive of all taxes)",
+    "barcode": "8906076840112",
+    "ingredients": [
+      "Pasteurised Cow Milk",
+      "Active Live Probiotic Cultures (Streptococcus thermophilus, Lactobacillus bulgaricus)"
+    ],
+    "score": 95,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-049",
+    "name": "Fresh Paneer Malai Cottage Cheese",
+    "brand": "Mother Dairy",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "200 g",
+    "mrp": "Rs. 95.00 (inclusive of all taxes)",
+    "barcode": "8901648001018",
+    "ingredients": [
+      "Standardised Milk",
+      "Citric Acid"
+    ],
+    "score": 88,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-050",
+    "name": "Fresh Taaza Toned Milk Homogenised",
+    "brand": "Amul",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "1 L",
+    "mrp": "Rs. 54.00 (inclusive of all taxes)",
+    "barcode": "8901262010350",
+    "ingredients": [
+      "Toned Milk (3.0% Fat, 8.5% SNF)",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "score": 92,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-051",
+    "name": "Dahi Traditional Curd Probiotic",
+    "brand": "Nestle a+",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "400 g",
+    "mrp": "Rs. 50.00 (inclusive of all taxes)",
+    "barcode": "8901058853117",
+    "ingredients": [
+      "Pasteurised Toned Milk",
+      "Milk Solids",
+      "Active Lactic Cultures"
+    ],
+    "score": 93,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-052",
+    "name": "Mithai Mate Sweetened Condensed Milk",
+    "brand": "Amul",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "400 g",
+    "mrp": "Rs. 130.00 (inclusive of all taxes)",
+    "barcode": "8901262010886",
+    "ingredients": [
+      "Pasteurised Whole Milk",
+      "Sugar"
+    ],
+    "score": 39,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-053",
+    "name": "Masala Chaas Buttermilk with Jeera",
+    "brand": "Mother Dairy",
+    "category": "Dairy",
+    "type": "food",
+    "net_quantity": "200 ml",
+    "mrp": "Rs. 15.00 (inclusive of all taxes)",
+    "barcode": "8901648002053",
+    "ingredients": [
+      "Pasteurised Curd",
+      "Water",
+      "Iodised Salt",
+      "Roasted Cumin",
+      "Black Salt",
+      "Ginger",
+      "Green Chilli"
+    ],
+    "score": 90,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-054",
+    "name": "Parle-G Original Gluco Biscuits",
+    "brand": "Parle",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "130 g",
+    "mrp": "Rs. 10.00 (inclusive of all taxes)",
+    "barcode": "8901719101011",
+    "ingredients": [
+      "Refined Wheat Flour (Maida 67%)",
+      "Sugar",
+      "Edible Vegetable Oil (Palm)",
+      "Invert Sugar Syrup",
+      "Leavening Agents (503ii, 500ii)",
+      "Milk Solids",
+      "Iodised Salt",
+      "Emulsifiers (322, 471)"
+    ],
+    "score": 46,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten",
+      "Milk",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-055",
+    "name": "Good Day Cashew Cookies",
+    "brand": "Britannia",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "120 g",
+    "mrp": "Rs. 30.00 (inclusive of all taxes)",
+    "barcode": "8901063011113",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Sugar",
+      "Edible Vegetable Oil (Palm)",
+      "Cashew Bits (4.5%)",
+      "Butter",
+      "Invert Sugar Syrup",
+      "Milk Solids",
+      "Raising Agents (503ii, 500ii)",
+      "Iodised Salt"
+    ],
+    "score": 42,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten",
+      "Tree Nuts",
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-056",
+    "name": "NutriChoice Digestive High Fibre Biscuits",
+    "brand": "Britannia",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "250 g",
+    "mrp": "Rs. 50.00 (inclusive of all taxes)",
+    "barcode": "8901063012509",
+    "ingredients": [
+      "Whole Wheat Flour (Atta 55%)",
+      "Refined Wheat Flour",
+      "Edible Vegetable Oil (Palm)",
+      "Sugar",
+      "Wheat Bran (4.5%)",
+      "Invert Sugar Syrup",
+      "Raising Agents (500ii, 503ii)",
+      "Iodised Salt"
+    ],
+    "score": 62,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-057",
+    "name": "Oreo Vanilla Creme Sandwich Cookies",
+    "brand": "Cadbury",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "120 g",
+    "mrp": "Rs. 35.00 (inclusive of all taxes)",
+    "barcode": "8901233011114",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Sugar",
+      "Edible Vegetable Fat (Palm Oil)",
+      "Cocoa Solids (4.5%)",
+      "Invert Sugar",
+      "Raising Agents (500ii, 503ii)",
+      "Iodised Salt",
+      "Soy Lecithin (322)"
+    ],
+    "score": 34,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-058",
+    "name": "100% Whole Wheat Brown Bread Sliced",
+    "brand": "Britannia",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "400 g",
+    "mrp": "Rs. 45.00 (inclusive of all taxes)",
+    "barcode": "8901063013056",
+    "ingredients": [
+      "Whole Wheat Flour (Atta 60%)",
+      "Water",
+      "Yeast",
+      "Sugar",
+      "Edible Vegetable Oil (Sunflower)",
+      "Iodised Salt",
+      "Malt Extract",
+      "Preservative (282)",
+      "Soy Flour"
+    ],
+    "score": 78,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-059",
+    "name": "Dairy Milk Silk Creamy Milk Chocolate",
+    "brand": "Cadbury",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "150 g",
+    "mrp": "Rs. 175.00 (inclusive of all taxes)",
+    "barcode": "8901233012210",
+    "ingredients": [
+      "Sugar",
+      "Milk Solids (25%)",
+      "Cocoa Butter",
+      "Cocoa Solids",
+      "Emulsifiers (442, 476)",
+      "Flavours (Natural, Nature Identical)"
+    ],
+    "score": 38,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Milk"
+    ]
+  },
+  {
+    "id": "ITM-060",
+    "name": "Dark Chocolate 70% Intense Cocoa Bar",
+    "brand": "Amul",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "150 g",
+    "mrp": "Rs. 120.00 (inclusive of all taxes)",
+    "barcode": "8901262010992",
+    "ingredients": [
+      "Cocoa Solids (70%)",
+      "Sugar",
+      "Cocoa Butter",
+      "Permitted Emulsifiers (Soy Lecithin E322)",
+      "Vanillin"
+    ],
+    "score": 74,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-061",
+    "name": "Hide & Seek Chocolate Chip Cookies",
+    "brand": "Parle",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "120 g",
+    "mrp": "Rs. 40.00 (inclusive of all taxes)",
+    "barcode": "8901719102216",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Chocolate Chips (21%)",
+      "Sugar",
+      "Edible Vegetable Oil (Palm)",
+      "Invert Sugar Syrup",
+      "Cocoa Solids",
+      "Raising Agents (503ii, 500ii)",
+      "Iodised Salt"
+    ],
+    "score": 40,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-062",
+    "name": "Bourbon Chocolate Sandwich Biscuits",
+    "brand": "Britannia",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "150 g",
+    "mrp": "Rs. 35.00 (inclusive of all taxes)",
+    "barcode": "8901063014107",
+    "ingredients": [
+      "Refined Wheat Flour (Maida)",
+      "Sugar",
+      "Edible Vegetable Oil (Palm)",
+      "Cocoa Solids (2.3%)",
+      "Invert Sugar Syrup",
+      "Raising Agents (500ii, 503ii)",
+      "Caramel Color (150a)",
+      "Iodised Salt"
+    ],
+    "score": 37,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-063",
+    "name": "Dark Fantasy Choco Fills Molten Cookie",
+    "brand": "Sunfeast",
+    "category": "Bakery",
+    "type": "food",
+    "net_quantity": "150 g",
+    "mrp": "Rs. 70.00 (inclusive of all taxes)",
+    "barcode": "8901725135116",
+    "ingredients": [
+      "Choco Creme (Sugar, Hydrogenated Vegetable Oil, Cocoa Solids, Emulsifier 322)",
+      "Refined Wheat Flour",
+      "Hydrogenated Vegetable Oil",
+      "Sugar",
+      "Invert Sugar",
+      "Cocoa Solids",
+      "Raising Agents"
+    ],
+    "score": 28,
+    "health_verdict": "UNHEALTHY",
+    "allergens": [
+      "Gluten",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-064",
+    "name": "10% Niacinamide Face Serum with Zinc",
+    "brand": "The Ordinary",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "30 ml",
+    "mrp": "Rs. 600.00 (inclusive of all taxes)",
+    "barcode": "769915190311",
+    "ingredients": [
+      "Aqua (Water)",
+      "Niacinamide (10%)",
+      "Pentylene Glycol",
+      "Zinc PCA",
+      "Dimethyl Isosorbide",
+      "Tamarindus Indica Seed Gum",
+      "Xanthan Gum",
+      "Isoceteth-20",
+      "Phenoxyethanol",
+      "Chlorphenesin"
+    ],
+    "score": 92,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-065",
+    "name": "2% Salicylic Acid BHA Serum for Acne & Blackheads",
+    "brand": "Minimalist",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "30 ml",
+    "mrp": "Rs. 549.00 (inclusive of all taxes)",
+    "barcode": "8906128100119",
+    "ingredients": [
+      "Aloe Barbadensis Leaf Juice",
+      "Salicylic Acid (2%)",
+      "Dimethyl Isosorbide",
+      "Propylene Glycol",
+      "Sodium Hydroxide",
+      "Hydroxyethylcellulose",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "score": 89,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-066",
+    "name": "Hydrating Facial Cleanser for Normal to Dry Skin",
+    "brand": "CeraVe",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "236 ml",
+    "mrp": "Rs. 1150.00 (inclusive of all taxes)",
+    "barcode": "3337875597180",
+    "ingredients": [
+      "Aqua (Water)",
+      "Glycerin",
+      "Cetearyl Alcohol",
+      "Ceramide NP",
+      "Ceramide AP",
+      "Ceramide EOP",
+      "Hyaluronic Acid",
+      "Cholesterol",
+      "Phytosphingosine",
+      "Phenoxyethanol",
+      "Disodium EDTA"
+    ],
+    "score": 96,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-067",
+    "name": "Hydro Boost Water Gel Hyaluronic Moisturizer",
+    "brand": "Neutrogena",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "50 g",
+    "mrp": "Rs. 950.00 (inclusive of all taxes)",
+    "barcode": "8901012111019",
+    "ingredients": [
+      "Water",
+      "Dimethicone",
+      "Glycerin",
+      "Dimethicone/Vinyl Dimethicone Crosspolymer",
+      "Sodium Hyaluronate",
+      "Polyacrylamide",
+      "Phenoxyethanol",
+      "Chlorphenesin",
+      "Blue 1"
+    ],
+    "score": 82,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-068",
+    "name": "Ultra Sheer Dry-Touch Sunscreen Broad Spectrum SPF 50+",
+    "brand": "Neutrogena",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "88 ml",
+    "mrp": "Rs. 675.00 (inclusive of all taxes)",
+    "barcode": "8901012112023",
+    "ingredients": [
+      "Water",
+      "Homosalate",
+      "Oxybenzone",
+      "Octisalate",
+      "Avobenzone",
+      "Octocrylene",
+      "Silica",
+      "Dimethicone",
+      "Phenoxyethanol",
+      "Fragrance / Parfum"
+    ],
+    "score": 58,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-069",
+    "name": "Matte Mineral Sunscreen Broad Spectrum SPF 50 PA++++",
+    "brand": "Re'equil",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "50 g",
+    "mrp": "Rs. 700.00 (inclusive of all taxes)",
+    "barcode": "8906105610112",
+    "ingredients": [
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Cyclopentasiloxane",
+      "Dimethicone Crosspolymer",
+      "Tocopherol (Vitamin E)",
+      "Silica"
+    ],
+    "score": 88,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-070",
+    "name": "Glow Tonic 5% Glycolic Acid Exfoliating Toner",
+    "brand": "Pixi",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "100 ml",
+    "mrp": "Rs. 1400.00 (inclusive of all taxes)",
+    "barcode": "885190821016",
+    "ingredients": [
+      "Aqua",
+      "Aloe Barbadensis Leaf Juice",
+      "Glycolic Acid (5%)",
+      "Butylene Glycol",
+      "Glycerin",
+      "Hamamelis Virginiana (Witch Hazel)",
+      "Ginseng Root Extract",
+      "Fragrance / Parfum"
+    ],
+    "score": 81,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-071",
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "brand": "COSRX",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "100 ml",
+    "mrp": "Rs. 1450.00 (inclusive of all taxes)",
+    "barcode": "8809416470009",
+    "ingredients": [
+      "Snail Secretion Filtrate (96.3%)",
+      "Betaine",
+      "Butylene Glycol",
+      "Sodium Hyaluronate",
+      "Allantoin",
+      "Panthenol",
+      "Arginine",
+      "Phenoxyethanol"
+    ],
+    "score": 94,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-072",
+    "name": "Fair & Lovely Advanced Multi Vitamin Cream (Glow & Lovely)",
+    "brand": "Glow & Lovely",
+    "category": "Cosmetics",
+    "type": "cosmetic",
+    "net_quantity": "50 g",
+    "mrp": "Rs. 110.00 (inclusive of all taxes)",
+    "barcode": "8901030381010",
+    "ingredients": [
+      "Water",
+      "Palmitic Acid",
+      "Stearic Acid",
+      "Niacinamide (Vitamin B3)",
+      "Glycerin",
+      "Dimethicone",
+      "Titanium Dioxide",
+      "Methylparaben",
+      "Propylparaben",
+      "Fragrance / Parfum"
+    ],
+    "score": 48,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-073",
+    "name": "Lip Balm Strawberry Shine 24h Moisture",
+    "brand": "Nivea",
+    "category": "Cosmetics",
+    "type": "cosmetic",
+    "net_quantity": "4.8 g",
+    "mrp": "Rs. 199.00 (inclusive of all taxes)",
+    "barcode": "4005808360124",
+    "ingredients": [
+      "Octyldodecanol",
+      "Ricinus Communis (Castor) Seed Oil",
+      "Beeswax",
+      "Shea Butter",
+      "Strawberry Juice",
+      "Tocopherol (Vitamin E)",
+      "Aroma",
+      "Red 40"
+    ],
+    "score": 79,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-074",
+    "name": "SuperStay Matte Ink Liquid Lipstick",
+    "brand": "Maybelline New York",
+    "category": "Cosmetics",
+    "type": "cosmetic",
+    "net_quantity": "5 ml",
+    "mrp": "Rs. 699.00 (inclusive of all taxes)",
+    "barcode": "041554496924",
+    "ingredients": [
+      "Dimethicone",
+      "Trimethylsiloxysilicate",
+      "Isododecane",
+      "Nylon-611/Dimethicone Copolymer",
+      "Dimethicone Crosspolymer",
+      "Silica",
+      "CI 77891 (Titanium Dioxide)",
+      "CI 15850 (Red 7)"
+    ],
+    "score": 72,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-075",
+    "name": "Fit Me Matte + Poreless Liquid Foundation",
+    "brand": "Maybelline New York",
+    "category": "Cosmetics",
+    "type": "cosmetic",
+    "net_quantity": "30 ml",
+    "mrp": "Rs. 599.00 (inclusive of all taxes)",
+    "barcode": "041554433417",
+    "ingredients": [
+      "Aqua/Water",
+      "Cyclohexasiloxane",
+      "Nylon-12",
+      "Isododecane",
+      "Alcohol Denat.",
+      "Cyclopentasiloxane",
+      "Silica",
+      "Glycerin",
+      "Phenoxyethanol",
+      "CI 77891",
+      "CI 77492"
+    ],
+    "score": 68,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-076",
+    "name": "All-in-1 Waterproof Micellar Cleansing Water",
+    "brand": "Garnier Skin Naturals",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "125 ml",
+    "mrp": "Rs. 225.00 (inclusive of all taxes)",
+    "barcode": "8901526407019",
+    "ingredients": [
+      "Aqua/Water",
+      "Cyclopentasiloxane",
+      "Isohexadecane",
+      "Argania Spinosa Kernel Oil",
+      "Hexylene Glycol",
+      "Disodium EDTA",
+      "Decyl Glucoside",
+      "Polyaminopropyl Biguanide"
+    ],
+    "score": 86,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-077",
+    "name": "Pure Petroleum Jelly Original Triple Purified",
+    "brand": "Vaseline",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "100 g",
+    "mrp": "Rs. 125.00 (inclusive of all taxes)",
+    "barcode": "8901030383014",
+    "ingredients": [
+      "100% Pure White Petroleum Jelly (Petrolatum USP)"
+    ],
+    "score": 90,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-078",
+    "name": "Soft Light Moisturizer Cream with Vitamin E & Jojoba",
+    "brand": "Nivea",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "200 ml",
+    "mrp": "Rs. 320.00 (inclusive of all taxes)",
+    "barcode": "4005808810117",
+    "ingredients": [
+      "Water",
+      "Glycerin",
+      "Paraffinum Liquidum (Mineral Oil)",
+      "Myristyl Alcohol",
+      "Butylene Glycol",
+      "Simmondsia Chinensis Seed Oil (Jojoba)",
+      "Tocopheryl Acetate (Vitamin E)",
+      "Fragrance / Parfum",
+      "Linalool",
+      "Limonene"
+    ],
+    "score": 75,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-079",
+    "name": "Skin Brightening Miracle Night Cream with Hydroquinone (BANNED SAMPLE)",
+    "brand": "GlowFast OTC",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "30 g",
+    "mrp": "Rs. 299.00 (inclusive of all taxes)",
+    "barcode": "8909876543210",
+    "ingredients": [
+      "Water",
+      "Hydroquinone (4%)",
+      "Mercury (0.5%)",
+      "Mineral Oil",
+      "Methylparaben",
+      "Propylparaben",
+      "Fragrance / Parfum"
+    ],
+    "score": 12,
+    "health_verdict": "BAD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-080",
+    "name": "Tea Tree Oil Targeted Blemish Gel",
+    "brand": "The Body Shop",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "15 ml",
+    "mrp": "Rs. 795.00 (inclusive of all taxes)",
+    "barcode": "5028197960114",
+    "ingredients": [
+      "Aqua/Water",
+      "Alcohol Denat.",
+      "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+      "Glycerin",
+      "Calophyllum Inophyllum Seed Oil",
+      "Allantoin",
+      "Limonene"
+    ],
+    "score": 83,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-081",
+    "name": "Watermelon Glow Niacinamide Dew Drops",
+    "brand": "Glow Recipe",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "40 ml",
+    "mrp": "Rs. 3200.00 (inclusive of all taxes)",
+    "barcode": "850001316024",
+    "ingredients": [
+      "Water",
+      "Watermelon Fruit Extract",
+      "Niacinamide",
+      "Propanediol",
+      "Glycerin",
+      "Sodium Hyaluronate",
+      "Centella Asiatica Extract",
+      "Fragrance / Parfum"
+    ],
+    "score": 87,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-082",
+    "name": "Vitamin C 15% Brightening Face Serum",
+    "brand": "Plum",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "30 ml",
+    "mrp": "Rs. 790.00 (inclusive of all taxes)",
+    "barcode": "8906118410112",
+    "ingredients": [
+      "Aqua",
+      "Ethyl Ascorbic Acid (Vitamin C 15%)",
+      "Propanediol",
+      "Betaine",
+      "Sodium Hyaluronate",
+      "Rosa Damascena Flower Water",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin"
+    ],
+    "score": 93,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-083",
+    "name": "0.3% Retinol Anti-Aging Night Face Oil",
+    "brand": "Minimalist",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "30 ml",
+    "mrp": "Rs. 699.00 (inclusive of all taxes)",
+    "barcode": "8906128100225",
+    "ingredients": [
+      "Squalane",
+      "Caprylic/Capric Triglyceride",
+      "Retinol (0.3%)",
+      "Tocopherol (Vitamin E)"
+    ],
+    "score": 91,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-084",
+    "name": "Gentle Skin Cleanser for Sensitive Skin",
+    "brand": "Cetaphil",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "250 ml",
+    "mrp": "Rs. 630.00 (inclusive of all taxes)",
+    "barcode": "7612045501016",
+    "ingredients": [
+      "Water",
+      "Cetyl Alcohol",
+      "Propylene Glycol",
+      "Sodium Lauryl Sulfate",
+      "Stearyl Alcohol",
+      "Methylparaben",
+      "Propylparaben",
+      "Butylparaben"
+    ],
+    "score": 62,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-085",
+    "name": "Daily Facial Moisturizing Lotion SPF 15",
+    "brand": "Cetaphil",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "118 ml",
+    "mrp": "Rs. 1040.00 (inclusive of all taxes)",
+    "barcode": "7612045502020",
+    "ingredients": [
+      "Aqua",
+      "Octinoxate",
+      "Avobenzone",
+      "Glycerin",
+      "Glyceryl Stearate",
+      "Dimethicone",
+      "Tocopheryl Acetate",
+      "Phenoxyethanol"
+    ],
+    "score": 77,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-086",
+    "name": "Acne UV Gel Sunscreen SPF 50 PA+++",
+    "brand": "IPCA",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "50 g",
+    "mrp": "Rs. 850.00 (inclusive of all taxes)",
+    "barcode": "8901090100118",
+    "ingredients": [
+      "Cyclopentasiloxane",
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Dimethicone Crosspolymer",
+      "Silica",
+      "Tocopherol"
+    ],
+    "score": 90,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-087",
+    "name": "Natural 99% Pure Aloe Vera Soothing Gel",
+    "brand": "Mamaearth",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "300 ml",
+    "mrp": "Rs. 399.00 (inclusive of all taxes)",
+    "barcode": "8906087770119",
+    "ingredients": [
+      "Aloe Barbadensis Leaf Juice (99%)",
+      "Glycerin",
+      "Vitamin E (Tocopherol)",
+      "Potassium Sorbate",
+      "Sodium Benzoate"
+    ],
+    "score": 95,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-088",
+    "name": "Blemish & Age Defense Dual-Action Serum",
+    "brand": "SkinCeuticals",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "30 ml",
+    "mrp": "Rs. 7200.00 (inclusive of all taxes)",
+    "barcode": "883140024018",
+    "ingredients": [
+      "Alcohol Denat.",
+      "Aqua/Water",
+      "Methylpropanediol",
+      "Glycolic Acid",
+      "Salicylic Acid",
+      "Citric Acid",
+      "Sodium Hydroxide"
+    ],
+    "score": 80,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-089",
+    "name": "Sunscreen Spray SPF 50 Broad Spectrum (Aerosol)",
+    "brand": "Banana Boat",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "170 g",
+    "mrp": "Rs. 1100.00 (inclusive of all taxes)",
+    "barcode": "079656001015",
+    "ingredients": [
+      "Isobutane",
+      "Alcohol Denat.",
+      "Avobenzone",
+      "Homosalate",
+      "Octisalate",
+      "Octocrylene",
+      "Fragrance / Parfum"
+    ],
+    "score": 64,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-090",
+    "name": "Charcoal Blackhead Clearing Peel-Off Face Mask",
+    "brand": "Garnier",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "50 ml",
+    "mrp": "Rs. 249.00 (inclusive of all taxes)",
+    "barcode": "8901526408115",
+    "ingredients": [
+      "Aqua/Water",
+      "Alcohol Denat.",
+      "Polyvinyl Alcohol",
+      "Glycerin",
+      "Charcoal Powder",
+      "Salicylic Acid",
+      "Polyglycerin-10",
+      "Sodium Dehydroacetate"
+    ],
+    "score": 68,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-091",
+    "name": "Rose Water 100% Pure Hydro Distilled Toner",
+    "brand": "Kama Ayurveda",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "200 ml",
+    "mrp": "Rs. 1495.00 (inclusive of all taxes)",
+    "barcode": "8906014830115",
+    "ingredients": [
+      "100% Pure Steam Distilled Rosa Damascena (Rose) Flower Water"
+    ],
+    "score": 98,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-092",
+    "name": "Hydrating Sheet Mask with Hyaluronic Acid & Pomegranate",
+    "brand": "Garnier",
+    "category": "Skincare",
+    "type": "cosmetic",
+    "net_quantity": "28 g (1 sheet)",
+    "mrp": "Rs. 99.00 (inclusive of all taxes)",
+    "barcode": "8901526409013",
+    "ingredients": [
+      "Water",
+      "Propylene Glycol",
+      "Glycerin",
+      "Punica Granatum Fruit Extract",
+      "Sodium Hyaluronate",
+      "Hydroxyethylcellulose",
+      "Phenoxyethanol",
+      "Parfum/Fragrance"
+    ],
+    "score": 85,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-093",
+    "name": "Lash Sensational Washable Mascara Waterproof",
+    "brand": "Maybelline New York",
+    "category": "Cosmetics",
+    "type": "cosmetic",
+    "net_quantity": "9.5 ml",
+    "mrp": "Rs. 549.00 (inclusive of all taxes)",
+    "barcode": "041554420615",
+    "ingredients": [
+      "Isododecane",
+      "Cera Alba (Beeswax)",
+      "Copernicia Cerifera Cera (Carnauba Wax)",
+      "Disteardimonium Hectorite",
+      "CI 77499 (Iron Oxides)"
+    ],
+    "score": 84,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-094",
+    "name": "Total Damage Care Intensive Repair Shampoo",
+    "brand": "Dove",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "340 ml",
+    "mrp": "Rs. 310.00 (inclusive of all taxes)",
+    "barcode": "8901030384011",
+    "ingredients": [
+      "Water",
+      "Sodium Laureth Sulfate",
+      "Cocamidopropyl Betaine",
+      "Dimethiconol",
+      "Glycerin",
+      "Sodium Chloride",
+      "Fragrance / Parfum",
+      "Carbomer",
+      "DMDM Hydantoin",
+      "Disodium EDTA"
+    ],
+    "score": 60,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-095",
+    "name": "Smooth & Silky Anti-Dandruff Shampoo",
+    "brand": "Head & Shoulders",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "340 ml",
+    "mrp": "Rs. 340.00 (inclusive of all taxes)",
+    "barcode": "4902430750116",
+    "ingredients": [
+      "Water",
+      "Sodium Laureth Sulfate",
+      "Sodium Lauryl Sulfate",
+      "Zinc Pyrithione (BANNED EU)",
+      "Zinc Carbonate",
+      "Dimethicone",
+      "Sodium Xylenesulfonate",
+      "Fragrance / Parfum"
+    ],
+    "score": 52,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-096",
+    "name": "Apple Cider Vinegar Sulfate-Free Shampoo",
+    "brand": "WOW Skin Science",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "300 ml",
+    "mrp": "Rs. 399.00 (inclusive of all taxes)",
+    "barcode": "8906105611010",
+    "ingredients": [
+      "Purified Water",
+      "Caprylyl/Capryl Glucoside",
+      "Sodium Methyl Cocoyl Taurate",
+      "Raw Apple Cider Vinegar",
+      "Sweet Almond Oil",
+      "Argan Oil",
+      "Tocopheryl Acetate (Vitamin E)"
+    ],
+    "score": 93,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-097",
+    "name": "Onion Hair Fall Control Conditioner with Keratin",
+    "brand": "Mamaearth",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "250 ml",
+    "mrp": "Rs. 349.00 (inclusive of all taxes)",
+    "barcode": "8906087770225",
+    "ingredients": [
+      "Purified Water",
+      "Cetearyl Alcohol",
+      "Behentrimonium Chloride",
+      "Red Onion Seed Oil Extract",
+      "Hydrolyzed Keratin",
+      "Sweet Almond Oil",
+      "Potassium Sorbate"
+    ],
+    "score": 91,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-098",
+    "name": "100% Pure Organic Cold Pressed Virgin Coconut Hair Oil",
+    "brand": "Maxcare",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "500 ml",
+    "mrp": "Rs. 375.00 (inclusive of all taxes)",
+    "barcode": "8906037410113",
+    "ingredients": [
+      "100% Pure Virgin Coconut Oil"
+    ],
+    "score": 94,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-099",
+    "name": "Excellence Creme Permanent Triple Care Hair Color (Brown)",
+    "brand": "L'Oreal Paris",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "100 g",
+    "mrp": "Rs. 620.00 (inclusive of all taxes)",
+    "barcode": "8901526401017",
+    "ingredients": [
+      "Aqua/Water",
+      "Cetearyl Alcohol",
+      "Propylene Glycol",
+      "Deceth-3",
+      "Laureth-12",
+      "Ammonium Hydroxide",
+      "p-Phenylenediamine (PPD)",
+      "Resorcinol",
+      "Fragrance / Parfum"
+    ],
+    "score": 35,
+    "health_verdict": "BAD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-100",
+    "name": "Total 10 Antibacterial Germ Protection Soap",
+    "brand": "Lifebuoy",
+    "category": "Personal Care",
+    "type": "cosmetic",
+    "net_quantity": "125 g",
+    "mrp": "Rs. 40.00 (inclusive of all taxes)",
+    "barcode": "8901030385018",
+    "ingredients": [
+      "Sodium Palmate",
+      "Sodium Palm Kernelate",
+      "Water",
+      "Talc",
+      "Glycerin",
+      "Fragrance / Parfum",
+      "Triclosan (BANNED OTC)",
+      "Sodium Chloride",
+      "Titanium Dioxide"
+    ],
+    "score": 45,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-101",
+    "name": "Original Deep Moisture Nourishing Body Wash",
+    "brand": "Dove",
+    "category": "Personal Care",
+    "type": "cosmetic",
+    "net_quantity": "800 ml",
+    "mrp": "Rs. 499.00 (inclusive of all taxes)",
+    "barcode": "8901030386015",
+    "ingredients": [
+      "Water",
+      "Cocamidopropyl Betaine",
+      "Sodium Methyl Lauroyl Taurate",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "Lauric Acid",
+      "Fragrance / Parfum",
+      "Ceramide NP"
+    ],
+    "score": 88,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-102",
+    "name": "Total Clean Mint Anticavity Fluoride Toothpaste",
+    "brand": "Colgate",
+    "category": "Personal Care",
+    "type": "cosmetic",
+    "net_quantity": "120 g",
+    "mrp": "Rs. 130.00 (inclusive of all taxes)",
+    "barcode": "8901314010112",
+    "ingredients": [
+      "Water",
+      "Sorbitol",
+      "Hydrated Silica",
+      "Sodium Lauryl Sulfate",
+      "Flavor",
+      "Zinc Citrate",
+      "Sodium Fluoride (1450 ppm F)",
+      "Sodium Saccharin"
+    ],
+    "score": 85,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-103",
+    "name": "Dant Kanti Ayurvedic Natural Toothpaste",
+    "brand": "Patanjali",
+    "category": "Personal Care",
+    "type": "cosmetic",
+    "net_quantity": "200 g",
+    "mrp": "Rs. 110.00 (inclusive of all taxes)",
+    "barcode": "8904109450117",
+    "ingredients": [
+      "Calcium Carbonate",
+      "Sorbitol",
+      "Water",
+      "Glycerin",
+      "Neem Bark",
+      "Clove Oil",
+      "Babul Bark",
+      "Pudina (Menthol)",
+      "Sodium Benzoate"
+    ],
+    "score": 90,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-104",
+    "name": "Cool Kick 48H Antiperspirant Roll-On Deodorant",
+    "brand": "Nivea Men",
+    "category": "Personal Care",
+    "type": "cosmetic",
+    "net_quantity": "50 ml",
+    "mrp": "Rs. 225.00 (inclusive of all taxes)",
+    "barcode": "4005808815112",
+    "ingredients": [
+      "Aqua",
+      "Alcohol Denat.",
+      "Aluminum Chlorohydrate",
+      "PEG-8",
+      "Hydrogenated Castor Oil",
+      "Fragrance / Parfum",
+      "Menthol",
+      "Linalool",
+      "Limonene"
+    ],
+    "score": 72,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-105",
+    "name": "Dettol Original Antiseptic Liquid for First Aid & Hygiene",
+    "brand": "Dettol",
+    "category": "Personal Care",
+    "type": "cosmetic",
+    "net_quantity": "550 ml",
+    "mrp": "Rs. 210.00 (inclusive of all taxes)",
+    "barcode": "8901396010119",
+    "ingredients": [
+      "Chloroxylenol (4.8% w/v)",
+      "Terpineol (9.0% v/v)",
+      "Denatured Alcohol (13.1% v/v)",
+      "Caramel",
+      "Water"
+    ],
+    "score": 79,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-106",
+    "name": "Biotin & Collagen Volumizing Shampoo",
+    "brand": "OGX",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "385 ml",
+    "mrp": "Rs. 799.00 (inclusive of all taxes)",
+    "barcode": "022796976116",
+    "ingredients": [
+      "Water",
+      "Sodium C14-16 Olefin Sulfonate",
+      "Cocamidopropyl Betaine",
+      "Biotin (Vitamin B7)",
+      "Hydrolyzed Collagen",
+      "Wheat Protein",
+      "DMDM Hydantoin (Formaldehyde Donor)",
+      "Fragrance / Parfum"
+    ],
+    "score": 58,
+    "health_verdict": "MODERATE",
+    "allergens": [
+      "Gluten"
+    ]
+  },
+  {
+    "id": "ITM-107",
+    "name": "Professional No Yellow Purple Shampoo for Blonde & Grey Hair",
+    "brand": "Fanola",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "350 ml",
+    "mrp": "Rs. 1350.00 (inclusive of all taxes)",
+    "barcode": "8032947860114",
+    "ingredients": [
+      "Aqua",
+      "Sodium Laureth Sulfate",
+      "Sodium Cocoamphoacetate",
+      "Cocamidopropyl Betaine",
+      "Acid Violet 43",
+      "Citric Acid",
+      "Fragrance / Parfum",
+      "Benzyl Alcohol"
+    ],
+    "score": 74,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-108",
+    "name": "Livon Anti-Frizz Hair Serum with Vitamin E & Argan Oil",
+    "brand": "Livon",
+    "category": "Haircare",
+    "type": "cosmetic",
+    "net_quantity": "100 ml",
+    "mrp": "Rs. 315.00 (inclusive of all taxes)",
+    "barcode": "8901088010113",
+    "ingredients": [
+      "Cyclopentasiloxane",
+      "Dimethiconol",
+      "Diphenyl Dimethicone",
+      "C12-15 Alkyl Benzoate",
+      "Argan Oil",
+      "Tocopheryl Acetate (Vitamin E)",
+      "Fragrance / Parfum"
+    ],
+    "score": 85,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-109",
+    "name": "Baby Calming Diaper Rash Zinc Oxide Cream",
+    "brand": "Sebamed",
+    "category": "Baby Products",
+    "type": "cosmetic",
+    "net_quantity": "100 ml",
+    "mrp": "Rs. 580.00 (inclusive of all taxes)",
+    "barcode": "4103040114018",
+    "ingredients": [
+      "Aqua",
+      "Petrolatum",
+      "Paraffinum Liquidum",
+      "Zinc Oxide (10%)",
+      "Panthenol (Pro-Vitamin B5)",
+      "Chamomile Flower Extract",
+      "Allantoin",
+      "Cera Alba",
+      "Sorbitol"
+    ],
+    "score": 96,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-110",
+    "name": "No More Tears Baby Gentle Hair Shampoo",
+    "brand": "Johnson's",
+    "category": "Baby Products",
+    "type": "cosmetic",
+    "net_quantity": "500 ml",
+    "mrp": "Rs. 390.00 (inclusive of all taxes)",
+    "barcode": "8901012113013",
+    "ingredients": [
+      "Water",
+      "Cocamidopropyl Betaine",
+      "Decyl Glucoside",
+      "Sodium Cocoyl Isethionate",
+      "Glycerin",
+      "PEG-80 Sorbitan Laurate",
+      "Citric Acid",
+      "Sodium Benzoate"
+    ],
+    "score": 92,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-111",
+    "name": "Baby Talc-Free Soothing Cornstarch Powder",
+    "brand": "Mothercare",
+    "category": "Baby Products",
+    "type": "cosmetic",
+    "net_quantity": "250 g",
+    "mrp": "Rs. 320.00 (inclusive of all taxes)",
+    "barcode": "5021463110115",
+    "ingredients": [
+      "Corn Starch (Zea Mays)",
+      "Zinc Stearate",
+      "Allantoin",
+      "Chamomile Extract"
+    ],
+    "score": 95,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-112",
+    "name": "Gentle 99% Pure Water Baby Wet Wipes",
+    "brand": "Pampers",
+    "category": "Baby Products",
+    "type": "cosmetic",
+    "net_quantity": "72 wipes",
+    "mrp": "Rs. 199.00 (inclusive of all taxes)",
+    "barcode": "4902430751021",
+    "ingredients": [
+      "Water (99%)",
+      "Citric Acid",
+      "Sodium Citrate",
+      "Sodium Benzoate",
+      "Disodium EDTA"
+    ],
+    "score": 98,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-113",
+    "name": "Daily Herbal Baby Massage Oil with Olive & Winter Cherry",
+    "brand": "Himalaya Baby Care",
+    "category": "Baby Products",
+    "type": "cosmetic",
+    "net_quantity": "200 ml",
+    "mrp": "Rs. 210.00 (inclusive of all taxes)",
+    "barcode": "8901138810116",
+    "ingredients": [
+      "Olea Europaea (Olive) Fruit Oil",
+      "Withania Somnifera (Ashwagandha) Root Extract",
+      "Aloe Barbadensis Leaf Extract",
+      "Tocopherol"
+    ],
+    "score": 96,
+    "health_verdict": "GOOD FOR SKIN",
+    "allergens": []
+  },
+  {
+    "id": "ITM-114",
+    "name": "100% Gold Standard 100% Whey Protein Double Rich Chocolate",
+    "brand": "Optimum Nutrition",
+    "category": "Supplements",
+    "type": "food",
+    "net_quantity": "2.27 kg (5 lbs)",
+    "mrp": "Rs. 6999.00 (inclusive of all taxes)",
+    "barcode": "748927028669",
+    "ingredients": [
+      "Protein Blend (Whey Protein Isolate, Whey Protein Concentrate, Hydrolyzed Whey Peptides)",
+      "Cocoa (Processed with Alkali)",
+      "Lecithin (Soy)",
+      "Natural and Artificial Flavors",
+      "Acesulfame Potassium (E950)",
+      "Sucralose (E955)",
+      "Lactase"
+    ],
+    "score": 82,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Milk",
+      "Soy"
+    ]
+  },
+  {
+    "id": "ITM-115",
+    "name": "Triple Strength Fish Oil 1000mg Omega 3 (EPA/DHA)",
+    "brand": "MuscleBlaze",
+    "category": "Supplements",
+    "type": "food",
+    "net_quantity": "60 capsules",
+    "mrp": "Rs. 799.00 (inclusive of all taxes)",
+    "barcode": "8906067020118",
+    "ingredients": [
+      "Fish Oil (EPA 500mg, DHA 400mg)",
+      "Gelatin (Animal Origin)",
+      "Glycerin",
+      "Purified Water",
+      "Tocopherols (Vitamin E)"
+    ],
+    "score": 94,
+    "health_verdict": "HEALTHY",
+    "allergens": [
+      "Fish"
+    ]
+  },
+  {
+    "id": "ITM-116",
+    "name": "Pure Creatine Monohydrate Micronized Powder Unflavored",
+    "brand": "MuscleBlaze",
+    "category": "Supplements",
+    "type": "food",
+    "net_quantity": "250 g",
+    "mrp": "Rs. 899.00 (inclusive of all taxes)",
+    "barcode": "8906067020224",
+    "ingredients": [
+      "100% Pure Micronized Creatine Monohydrate"
+    ],
+    "score": 98,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-117",
+    "name": "Daily Multivitamin for Men with 24 Essential Nutrients",
+    "brand": "Centrum",
+    "category": "Supplements",
+    "type": "food",
+    "net_quantity": "30 tablets",
+    "mrp": "Rs. 450.00 (inclusive of all taxes)",
+    "barcode": "8901088020112",
+    "ingredients": [
+      "Calcium Carbonate",
+      "Magnesium Oxide",
+      "Ascorbic Acid (Vit C)",
+      "Microcrystalline Cellulose",
+      "Zinc Oxide",
+      "DL-Alpha Tocopheryl Acetate",
+      "Niacinamide",
+      "Biotin"
+    ],
+    "score": 91,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-118",
+    "name": "Plant Based Biotin 10000 mcg for Hair & Nails",
+    "brand": "Oziva",
+    "category": "Supplements",
+    "type": "food",
+    "net_quantity": "200 g",
+    "mrp": "Rs. 899.00 (inclusive of all taxes)",
+    "barcode": "8906105612017",
+    "ingredients": [
+      "Sesbania Grandiflora Leaf Extract (Natural Biotin)",
+      "Amla Fruit Powder",
+      "Pomegranate Powder",
+      "Bamboo Shoot Extract"
+    ],
+    "score": 95,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-119",
+    "name": "Disinfectant Surface Cleaner Citrus 99.9% Germ Kill",
+    "brand": "Lizol",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "500 ml",
+    "mrp": "Rs. 105.00 (inclusive of all taxes)",
+    "barcode": "8901396020118",
+    "ingredients": [
+      "Benzalkonium Chloride (4% w/w)",
+      "Non-ionic Surfactants",
+      "Fragrance / Parfum",
+      "CI 19140 (Yellow 5)",
+      "Water"
+    ],
+    "score": 60,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-120",
+    "name": "Power Plus 10X Max Cleaning Disinfectant Toilet Cleaner",
+    "brand": "Harpic",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "1 L",
+    "mrp": "Rs. 195.00 (inclusive of all taxes)",
+    "barcode": "8901396030117",
+    "ingredients": [
+      "Hydrochloric Acid (10.5% w/v)",
+      "Oleyl Amine Ethoxylate",
+      "Acid Blue 80",
+      "Purified Water"
+    ],
+    "score": 40,
+    "health_verdict": "UNHEALTHY",
+    "allergens": []
+  },
+  {
+    "id": "ITM-121",
+    "name": "Concentrated Dishwash Liquid Gel with Lemon & Active Salts",
+    "brand": "Vim",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "750 ml",
+    "mrp": "Rs. 155.00 (inclusive of all taxes)",
+    "barcode": "8901030387012",
+    "ingredients": [
+      "Water",
+      "Linear Alkylbenzene Sulfonate",
+      "Sodium Laureth Sulfate",
+      "Lemon Juice Concentrate",
+      "Fragrance / Parfum",
+      "CI 19140"
+    ],
+    "score": 65,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-122",
+    "name": "Matic Top Load Laundry Liquid Detergent",
+    "brand": "Surf Excel",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "1 L",
+    "mrp": "Rs. 230.00 (inclusive of all taxes)",
+    "barcode": "8901030388019",
+    "ingredients": [
+      "Anionic Surfactants",
+      "Non-ionic Surfactants",
+      "Bio-Enzymes (Protease, Amylase)",
+      "Optical Brighteners",
+      "Fragrance / Parfum",
+      "Water"
+    ],
+    "score": 62,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-123",
+    "name": "Gentle Fabric Conditioner with French Rose & Jasmine",
+    "brand": "Comfort",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "860 ml",
+    "mrp": "Rs. 225.00 (inclusive of all taxes)",
+    "barcode": "8901030389016",
+    "ingredients": [
+      "Cationic Surfactants (TEA Esterquat)",
+      "Fragrance / Parfum",
+      "Preservative (Benzisothiazolinone)",
+      "Water"
+    ],
+    "score": 68,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-124",
+    "name": "Good knight Gold Flash Mosquito Repellent Liquid Vaporizer",
+    "brand": "Good knight",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "45 ml",
+    "mrp": "Rs. 85.00 (inclusive of all taxes)",
+    "barcode": "8901023010118",
+    "ingredients": [
+      "Transfluthrin (1.6% w/w)",
+      "Deodorized Kerosene (98.4%)"
+    ],
+    "score": 50,
+    "health_verdict": "MODERATE",
+    "allergens": []
+  },
+  {
+    "id": "ITM-125",
+    "name": "Pure Food Grade Baking Soda (Sodium Bicarbonate)",
+    "brand": "Weikfield",
+    "category": "Household",
+    "type": "household",
+    "net_quantity": "100 g",
+    "mrp": "Rs. 35.00 (inclusive of all taxes)",
+    "barcode": "8901321010115",
+    "ingredients": [
+      "100% Sodium Bicarbonate (Baking Soda)"
+    ],
+    "score": 95,
+    "health_verdict": "HEALTHY",
+    "allergens": []
+  }
+]

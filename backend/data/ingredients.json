@@ -1,0 +1,2631 @@
+[
+  {
+    "name": "Potassium Bromate",
+    "aliases": [
+      "E924",
+      "Bromic acid potassium salt"
+    ],
+    "e_number": "E924",
+    "type": "Flour Treatment Agent",
+    "safety_level": "avoid",
+    "reason": "Category 2B carcinogen, banned in India (2016), EU, UK, Canada due to renal tumor risks",
+    "skin_effect": "Irritant / Toxic",
+    "allergen": null
+  },
+  {
+    "name": "Titanium Dioxide",
+    "aliases": [
+      "E171",
+      "CI 77891",
+      "Pigment White 6"
+    ],
+    "e_number": "E171",
+    "type": "Colorant / Opacifier",
+    "safety_level": "avoid",
+    "reason": "Banned as food additive in EU (EFSA 2022) due to genotoxicity concerns; safe in topical cosmetics",
+    "skin_effect": "Safe / Non-irritating UV filter",
+    "allergen": null
+  },
+  {
+    "name": "Brominated Vegetable Oil",
+    "aliases": [
+      "BVO",
+      "E443"
+    ],
+    "e_number": "E443",
+    "type": "Emulsifier / Stabilizer",
+    "safety_level": "avoid",
+    "reason": "Banned in EU, India, Japan, and revoked by US FDA (2024) due to bromine bioaccumulation and thyroid damage",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Azodicarbonamide",
+    "aliases": [
+      "E927a",
+      "ADA"
+    ],
+    "e_number": "E927a",
+    "type": "Flour Bleaching Agent",
+    "safety_level": "avoid",
+    "reason": "Banned in EU, UK, Australia; decomposes into semicarbazide (carcinogen) during baking",
+    "skin_effect": "Respiratory sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Red Dye No. 3",
+    "aliases": [
+      "E127",
+      "Erythrosine",
+      "FD&C Red No. 3"
+    ],
+    "e_number": "E127",
+    "type": "Synthetic Food Dye",
+    "safety_level": "avoid",
+    "reason": "Banned in cosmetics and restricted/banned in foods (California food safety act, EU) linked to thyroid cancer",
+    "skin_effect": "Skin sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Red 40",
+    "aliases": [
+      "E129",
+      "Allura Red AC",
+      "FD&C Red No. 40"
+    ],
+    "e_number": "E129",
+    "type": "Synthetic Food Dye",
+    "safety_level": "caution",
+    "reason": "Azo dye requiring warning label in EU; linked to hyperactivity in sensitive children",
+    "skin_effect": "Low irritation",
+    "allergen": null
+  },
+  {
+    "name": "Yellow 5",
+    "aliases": [
+      "E102",
+      "Tartrazine",
+      "FD&C Yellow No. 5"
+    ],
+    "e_number": "E102",
+    "type": "Synthetic Food Dye",
+    "safety_level": "caution",
+    "reason": "Azo dye; potential allergen triggering urticaria and asthma; hyperactivity warning in EU",
+    "skin_effect": "Mild allergen",
+    "allergen": null
+  },
+  {
+    "name": "Yellow 6",
+    "aliases": [
+      "E110",
+      "Sunset Yellow FCF"
+    ],
+    "e_number": "E110",
+    "type": "Synthetic Food Dye",
+    "safety_level": "caution",
+    "reason": "Synthetic coal-tar dye; linked to allergic reactions and hyperactivity",
+    "skin_effect": "Mild allergen",
+    "allergen": null
+  },
+  {
+    "name": "Blue 1",
+    "aliases": [
+      "E133",
+      "Brilliant Blue FCF"
+    ],
+    "e_number": "E133",
+    "type": "Synthetic Food Dye",
+    "safety_level": "caution",
+    "reason": "Triphenylmethane dye; safe in moderation but restricted in baby foods",
+    "skin_effect": "Non-irritant",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Benzoate",
+    "aliases": [
+      "E211",
+      "Benzoate of soda"
+    ],
+    "e_number": "E211",
+    "type": "Preservative",
+    "safety_level": "caution",
+    "reason": "Can form trace carcinogenic benzene in acidic drinks when combined with ascorbic acid (Vit C)",
+    "skin_effect": "Mild sensitizer in high doses",
+    "allergen": null
+  },
+  {
+    "name": "Potassium Sorbate",
+    "aliases": [
+      "E202",
+      "Sorbic acid potassium salt"
+    ],
+    "e_number": "E202",
+    "type": "Preservative",
+    "safety_level": "safe",
+    "reason": "Widely recognized as safe fungal inhibitor; metabolizes into water and CO2",
+    "skin_effect": "Low irritation, widely used in clean cosmetics",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Metabisulphite",
+    "aliases": [
+      "E223",
+      "Disodium disulfite"
+    ],
+    "e_number": "E223",
+    "type": "Preservative / Antioxidant",
+    "safety_level": "caution",
+    "reason": "Sulphite preservative; causes severe bronchospasms in asthmatics and sulphite-sensitive individuals",
+    "skin_effect": "Contact sensitizer",
+    "allergen": "sulphites"
+  },
+  {
+    "name": "Sulphur Dioxide",
+    "aliases": [
+      "E220",
+      "SO2"
+    ],
+    "e_number": "E220",
+    "type": "Preservative",
+    "safety_level": "caution",
+    "reason": "Sulphite allergen; legally mandated allergen declaration on wine and dried fruit",
+    "skin_effect": "Irritant gas",
+    "allergen": "sulphites"
+  },
+  {
+    "name": "Monosodium Glutamate",
+    "aliases": [
+      "E621",
+      "MSG",
+      "Ajinomoto"
+    ],
+    "e_number": "E621",
+    "type": "Flavor Enhancer",
+    "safety_level": "safe",
+    "reason": "General population safe; mild transient flushing/headache in small subset of hypersensitive people",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Disodium Inosinate",
+    "aliases": [
+      "E631"
+    ],
+    "e_number": "E631",
+    "type": "Flavor Enhancer",
+    "safety_level": "safe",
+    "reason": "Nucleotide synergistic flavor enhancer; purine-rich (caution for gout patients)",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Disodium Guanylate",
+    "aliases": [
+      "E627"
+    ],
+    "e_number": "E627",
+    "type": "Flavor Enhancer",
+    "safety_level": "safe",
+    "reason": "Derived from yeast or fish; safe umami enhancer often paired with MSG",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "High Fructose Corn Syrup",
+    "aliases": [
+      "HFCS",
+      "Glucose-Fructose syrup",
+      "Isoglucose"
+    ],
+    "e_number": null,
+    "type": "Sweetener",
+    "safety_level": "avoid",
+    "reason": "Rapid hepatic fructose metabolism promotes visceral adiposity, fatty liver, insulin resistance",
+    "skin_effect": "Accelerates AGEs (glycation)",
+    "allergen": null
+  },
+  {
+    "name": "Invert Sugar Syrup",
+    "aliases": [
+      "Invert syrup",
+      "Trimoline"
+    ],
+    "e_number": null,
+    "type": "Sweetener",
+    "safety_level": "caution",
+    "reason": "High glycemic split sucrose; contributes to excess calorie intake and dental caries",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Aspartame",
+    "aliases": [
+      "E951",
+      "NutraSweet",
+      "Equal"
+    ],
+    "e_number": "E951",
+    "type": "Artificial Sweetener",
+    "safety_level": "caution",
+    "reason": "Classified as IARC 2B possibly carcinogenic; dangerous for people with phenylketonuria (PKU)",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Sucralose",
+    "aliases": [
+      "E955",
+      "Splenda"
+    ],
+    "e_number": "E955",
+    "type": "Artificial Sweetener",
+    "safety_level": "safe",
+    "reason": "Zero-calorie chlorinated sugar; stable under cooking heat, approved worldwide",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Acesulfame Potassium",
+    "aliases": [
+      "E950",
+      "Ace-K"
+    ],
+    "e_number": "E950",
+    "type": "Artificial Sweetener",
+    "safety_level": "caution",
+    "reason": "Calorie-free sweetener; some studies show alteration of gut microbiota at high chronic doses",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Steviol Glycosides",
+    "aliases": [
+      "E960",
+      "Stevia leaf extract",
+      "Rebaudioside A"
+    ],
+    "e_number": "E960",
+    "type": "Natural Sweetener",
+    "safety_level": "safe",
+    "reason": "Zero calorie plant extract; zero glycemic index; safe for diabetics",
+    "skin_effect": "Beneficial / soothing antioxidant",
+    "allergen": null
+  },
+  {
+    "name": "Erythritol",
+    "aliases": [
+      "E968"
+    ],
+    "e_number": "E968",
+    "type": "Sugar Alcohol",
+    "safety_level": "caution",
+    "reason": "Zero calorie polyol; recent studies show correlation with thrombosis markers at high intakes",
+    "skin_effect": "Hydrating humectant",
+    "allergen": null
+  },
+  {
+    "name": "Maltitol",
+    "aliases": [
+      "E965"
+    ],
+    "e_number": "E965",
+    "type": "Sugar Alcohol",
+    "safety_level": "caution",
+    "reason": "GI distress, laxative effect in excess; 75% sweetness of sugar",
+    "skin_effect": "Humectant",
+    "allergen": null
+  },
+  {
+    "name": "Palm Oil",
+    "aliases": [
+      "Palmolein",
+      "Elaeis guineensis oil",
+      "Fractionated Palm Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Fat",
+    "safety_level": "caution",
+    "reason": "High saturated palmitic acid (approx 50%); raises LDL cholesterol and environmental deforestation concerns",
+    "skin_effect": "Emollient / moderately comedogenic (rating 4)",
+    "allergen": null
+  },
+  {
+    "name": "Hydrogenated Vegetable Oil",
+    "aliases": [
+      "Vanaspati",
+      "Trans fat",
+      "Partially Hydrogenated Oil"
+    ],
+    "e_number": null,
+    "type": "Fat / Shortening",
+    "safety_level": "avoid",
+    "reason": "Contains toxic industrial trans-fatty acids; directly increases coronary artery disease mortality",
+    "skin_effect": "Comedogenic",
+    "allergen": null
+  },
+  {
+    "name": "Refined Wheat Flour",
+    "aliases": [
+      "Maida",
+      "All Purpose Flour",
+      "Enriched Wheat Flour"
+    ],
+    "e_number": null,
+    "type": "Carbohydrate Base",
+    "safety_level": "caution",
+    "reason": "High glycemic index, stripped of dietary fiber and micronutrients; contains gluten",
+    "skin_effect": "Neutral",
+    "allergen": "gluten"
+  },
+  {
+    "name": "Whole Wheat Flour",
+    "aliases": [
+      "Atta",
+      "Wholemeal Flour"
+    ],
+    "e_number": null,
+    "type": "Grain",
+    "safety_level": "safe",
+    "reason": "Nutritious complex carbohydrate rich in bran, germ, insoluble fiber and B vitamins",
+    "skin_effect": "Soothing oat/wheat protein",
+    "allergen": "gluten"
+  },
+  {
+    "name": "Rolled Oats",
+    "aliases": [
+      "Avena sativa",
+      "Oat Flakes"
+    ],
+    "e_number": null,
+    "type": "Grain",
+    "safety_level": "safe",
+    "reason": "Rich in beta-glucan soluble fiber; clinically proven to lower blood LDL cholesterol",
+    "skin_effect": "Anti-inflammatory, colloidal skin protectant",
+    "allergen": "gluten"
+  },
+  {
+    "name": "Skimmed Milk Powder",
+    "aliases": [
+      "SMP",
+      "Nonfat dry milk"
+    ],
+    "e_number": null,
+    "type": "Dairy",
+    "safety_level": "safe",
+    "reason": "High protein source; contains dairy lactose allergen",
+    "skin_effect": "Lactic acid donor, mild conditioning",
+    "allergen": "milk"
+  },
+  {
+    "name": "Whey Protein Concentrate",
+    "aliases": [
+      "WPC",
+      "Whey Protein Isolate"
+    ],
+    "e_number": null,
+    "type": "Protein",
+    "safety_level": "safe",
+    "reason": "Complete protein with high leucine content for muscle recovery; contains milk allergen",
+    "skin_effect": "Skin conditioning amino acids",
+    "allergen": "milk"
+  },
+  {
+    "name": "Milk Solids",
+    "aliases": [
+      "Dairy Solids",
+      "Whole Milk Powder"
+    ],
+    "e_number": null,
+    "type": "Dairy",
+    "safety_level": "safe",
+    "reason": "Concentrated dairy protein and calcium; major allergen (casein/whey)",
+    "skin_effect": "Nourishing",
+    "allergen": "milk"
+  },
+  {
+    "name": "Soy Lecithin",
+    "aliases": [
+      "E322",
+      "Lecithin"
+    ],
+    "e_number": "E322",
+    "type": "Emulsifier",
+    "safety_level": "safe",
+    "reason": "Natural phospholipid from soybeans; safe emulsifier, but contains soy allergen derivatives",
+    "skin_effect": "Skin barrier restoration lipid",
+    "allergen": "soy"
+  },
+  {
+    "name": "Soy Protein Isolate",
+    "aliases": [
+      "SPI",
+      "Defatted Soy Protein"
+    ],
+    "e_number": null,
+    "type": "Plant Protein",
+    "safety_level": "safe",
+    "reason": "Plant-based complete protein; contains soy allergens",
+    "skin_effect": "Conditioning",
+    "allergen": "soy"
+  },
+  {
+    "name": "Peanut Oil",
+    "aliases": [
+      "Groundnut Oil",
+      "Arachis Hypogaea Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Oil",
+    "safety_level": "caution",
+    "reason": "Heart-healthy monounsaturated fat; unrefined forms contain potent peanut allergen",
+    "skin_effect": "Moisturizing, comedogenic rating 2",
+    "allergen": "nuts"
+  },
+  {
+    "name": "Almonds",
+    "aliases": [
+      "Prunus Dulcis",
+      "Badam"
+    ],
+    "e_number": null,
+    "type": "Tree Nut",
+    "safety_level": "safe",
+    "reason": "Dense in vitamin E, magnesium, healthy monounsaturated lipids; tree nut allergen",
+    "skin_effect": "Deep emollient oil",
+    "allergen": "nuts"
+  },
+  {
+    "name": "Cashews",
+    "aliases": [
+      "Anacardium Occidentale",
+      "Kaju"
+    ],
+    "e_number": null,
+    "type": "Tree Nut",
+    "safety_level": "safe",
+    "reason": "Rich in zinc and healthy fats; potent tree nut allergen (anacardic acid)",
+    "skin_effect": "Nourishing",
+    "allergen": "nuts"
+  },
+  {
+    "name": "Cocoa Butter",
+    "aliases": [
+      "Theobroma Cacao Butter"
+    ],
+    "e_number": null,
+    "type": "Vegetable Fat",
+    "safety_level": "safe",
+    "reason": "Natural plant fat rich in stearic and oleic fatty acids with pleasant melt temperature",
+    "skin_effect": "Rich emollient; highly comedogenic (rating 4)",
+    "allergen": null
+  },
+  {
+    "name": "Cocoa Solids",
+    "aliases": [
+      "Cocoa Powder",
+      "Cacao Liquor"
+    ],
+    "e_number": null,
+    "type": "Plant Extract",
+    "safety_level": "safe",
+    "reason": "Rich in flavanols, theobromine, and polyphenol antioxidants",
+    "skin_effect": "Antioxidant protectant",
+    "allergen": null
+  },
+  {
+    "name": "Iodised Salt",
+    "aliases": [
+      "Sodium Chloride",
+      "Common Salt"
+    ],
+    "e_number": null,
+    "type": "Mineral Seasoning",
+    "safety_level": "caution",
+    "reason": "Essential trace iodine prevents goitre; excess sodium intake raises blood pressure",
+    "skin_effect": "Exfoliant / preservative in baths",
+    "allergen": null
+  },
+  {
+    "name": "Citric Acid",
+    "aliases": [
+      "E330",
+      "Acidity Regulator 330"
+    ],
+    "e_number": "E330",
+    "type": "Acidity Regulator",
+    "safety_level": "safe",
+    "reason": "Natural organic acid derived from citrus or fungal fermentation; completely harmless",
+    "skin_effect": "Alpha hydroxy acid (AHA); chemical exfoliant",
+    "allergen": null
+  },
+  {
+    "name": "Ascorbic Acid",
+    "aliases": [
+      "E300",
+      "Vitamin C"
+    ],
+    "e_number": "E300",
+    "type": "Antioxidant / Vitamin",
+    "safety_level": "safe",
+    "reason": "Essential human nutrient; water-soluble antioxidant preventing rancidity",
+    "skin_effect": "Brightening, collagen-boosting antioxidant",
+    "allergen": null
+  },
+  {
+    "name": "Tocopherol",
+    "aliases": [
+      "E306",
+      "Vitamin E",
+      "Alpha-Tocopherol"
+    ],
+    "e_number": "E306",
+    "type": "Antioxidant / Vitamin",
+    "safety_level": "safe",
+    "reason": "Lipid-soluble antioxidant preventing oil peroxidation; non-toxic",
+    "skin_effect": "Barrier repair, anti-aging antioxidant",
+    "allergen": null
+  },
+  {
+    "name": "Xanthan Gum",
+    "aliases": [
+      "E415"
+    ],
+    "e_number": "E415",
+    "type": "Thickener / Stabilizer",
+    "safety_level": "safe",
+    "reason": "Fermented microbial polysaccharide; gut safe dietary soluble fiber",
+    "skin_effect": "Gel texturizer, non-irritant",
+    "allergen": null
+  },
+  {
+    "name": "Guar Gum",
+    "aliases": [
+      "E412",
+      "Cyamopsis Tetragonoloba"
+    ],
+    "e_number": "E412",
+    "type": "Thickener",
+    "safety_level": "safe",
+    "reason": "Natural legume galactomannan fiber; supports satiety and digestion",
+    "skin_effect": "Viscosity enhancer",
+    "allergen": null
+  },
+  {
+    "name": "Carrageenan",
+    "aliases": [
+      "E407",
+      "Irish Moss Extract"
+    ],
+    "e_number": "E407",
+    "type": "Thickener / Gelling Agent",
+    "safety_level": "caution",
+    "reason": "Seaweed polysaccharide; degraded carrageenan (poligeenan) linked to gut inflammation in animal models",
+    "skin_effect": "Water-binding agent",
+    "allergen": null
+  },
+  {
+    "name": "BHA",
+    "aliases": [
+      "E320",
+      "Butylated Hydroxyanisole"
+    ],
+    "e_number": "E320",
+    "type": "Synthetic Antioxidant",
+    "safety_level": "avoid",
+    "reason": "Reasonably anticipated to be a human carcinogen (NTP); endocrine disruptor in animal studies",
+    "skin_effect": "Sensitizing antioxidant",
+    "allergen": null
+  },
+  {
+    "name": "BHT",
+    "aliases": [
+      "E321",
+      "Butylated Hydroxytoluene"
+    ],
+    "e_number": "E321",
+    "type": "Synthetic Antioxidant",
+    "safety_level": "caution",
+    "reason": "Synthetic preservative; restricted in foods in EU and under scrutiny for endocrine disruption",
+    "skin_effect": "Low risk in rinse-off, mild contact allergen",
+    "allergen": null
+  },
+  {
+    "name": "TBHQ",
+    "aliases": [
+      "E319",
+      "Tertiary Butylhydroquinone"
+    ],
+    "e_number": "E319",
+    "type": "Synthetic Antioxidant",
+    "safety_level": "caution",
+    "reason": "Synthetic fat preservative; regulated maximum limit (200 ppm) due to cytotoxic potential at high doses",
+    "skin_effect": "Sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Nitrite",
+    "aliases": [
+      "E250"
+    ],
+    "e_number": "E250",
+    "type": "Curing Agent / Preservative",
+    "safety_level": "avoid",
+    "reason": "Forms carcinogenic nitrosamines when heated in cured meats; IARC Group 1 in processed meat",
+    "skin_effect": "Toxic",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Nitrate",
+    "aliases": [
+      "E251"
+    ],
+    "e_number": "E251",
+    "type": "Preservative",
+    "safety_level": "caution",
+    "reason": "Converts to nitrite in gut; caution in processed sausages and deli meats",
+    "skin_effect": "Irritant",
+    "allergen": null
+  },
+  {
+    "name": "Propylparaben",
+    "aliases": [
+      "E216",
+      "Propyl 4-hydroxybenzoate"
+    ],
+    "e_number": "E216",
+    "type": "Preservative",
+    "safety_level": "avoid",
+    "reason": "Banned as food additive in EU (2006); suspected endocrine disruptor with estrogenic activity",
+    "skin_effect": "Endocrine disruptor / skin sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Methylparaben",
+    "aliases": [
+      "E218",
+      "Methyl 4-hydroxybenzoate"
+    ],
+    "e_number": "E218",
+    "type": "Preservative",
+    "safety_level": "caution",
+    "reason": "Common cosmetic preservative; low toxicity at <0.4% but weak estrogenic activity",
+    "skin_effect": "Safe at low doses, rare contact dermatitis",
+    "allergen": null
+  },
+  {
+    "name": "Isobutylparaben",
+    "aliases": [
+      "Isobutyl 4-hydroxybenzoate"
+    ],
+    "e_number": null,
+    "type": "Preservative",
+    "safety_level": "avoid",
+    "reason": "Banned in EU and ASEAN in leave-on cosmetics due to significant estrogenic endocrine disruption",
+    "skin_effect": "Endocrine disruptor",
+    "allergen": null
+  },
+  {
+    "name": "Isopropylparaben",
+    "aliases": [
+      "Isopropyl 4-hydroxybenzoate"
+    ],
+    "e_number": null,
+    "type": "Preservative",
+    "safety_level": "avoid",
+    "reason": "Banned in EU cosmetics (Annex II); endocrine disruption risk on reproductive system",
+    "skin_effect": "Endocrine disruptor",
+    "allergen": null
+  },
+  {
+    "name": "Formaldehyde",
+    "aliases": [
+      "Formalin",
+      "Methanal",
+      "Methylene oxide"
+    ],
+    "e_number": null,
+    "type": "Preservative / Biocide",
+    "safety_level": "avoid",
+    "reason": "IARC Group 1 human carcinogen; banned in cosmetics in EU and strictly prohibited in hair straightening",
+    "skin_effect": "Severe contact allergen and respiratory toxicant",
+    "allergen": null
+  },
+  {
+    "name": "DMDM Hydantoin",
+    "aliases": [
+      "Glydant"
+    ],
+    "e_number": null,
+    "type": "Formaldehyde Releaser",
+    "safety_level": "avoid",
+    "reason": "Slowly releases carcinogenic formaldehyde to preserve water-based shampoos and body washes",
+    "skin_effect": "High contact allergy risk, scalp irritation",
+    "allergen": null
+  },
+  {
+    "name": "Diazolidinyl Urea",
+    "aliases": [
+      "Germall II"
+    ],
+    "e_number": null,
+    "type": "Formaldehyde Releaser",
+    "safety_level": "avoid",
+    "reason": "Formaldehyde-releasing preservative; causes contact dermatitis in eczema patients",
+    "skin_effect": "Sensitizer / allergen",
+    "allergen": null
+  },
+  {
+    "name": "Imidazolidinyl Urea",
+    "aliases": [
+      "Germall 115"
+    ],
+    "e_number": null,
+    "type": "Formaldehyde Releaser",
+    "safety_level": "caution",
+    "reason": "Formaldehyde donor preservative; phased out by modern clean beauty brands",
+    "skin_effect": "Known patch-test allergen",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Lauryl Sulfate",
+    "aliases": [
+      "SLS",
+      "Sodium dodecyl sulfate"
+    ],
+    "e_number": null,
+    "type": "Anionic Surfactant",
+    "safety_level": "caution",
+    "reason": "Harsh surfactant; strips cutaneous lipid barrier, disrupts skin microbiome",
+    "skin_effect": "Severe irritant / barrier disruption",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Laureth Sulfate",
+    "aliases": [
+      "SLES"
+    ],
+    "e_number": null,
+    "type": "Surfactant",
+    "safety_level": "safe",
+    "reason": "Gentler ethoxylated surfactant; safe when purified, trace 1,4-dioxane impurity strictly regulated",
+    "skin_effect": "Mild-to-moderate cleansing agent",
+    "allergen": null
+  },
+  {
+    "name": "Cocamidopropyl Betaine",
+    "aliases": [
+      "CAPB"
+    ],
+    "e_number": null,
+    "type": "Amphoteric Surfactant",
+    "safety_level": "safe",
+    "reason": "Coconut-derived mild cleansing surfactant; rare allergies caused by amidoamine impurities",
+    "skin_effect": "Gentle on sensitive and baby skin",
+    "allergen": null
+  },
+  {
+    "name": "Hydroquinone",
+    "aliases": [
+      "1,4-Benzenediol",
+      "Quinol"
+    ],
+    "e_number": null,
+    "type": "Skin Lightener",
+    "safety_level": "avoid",
+    "reason": "Banned in OTC cosmetics in EU, UK, Japan; causes exogenous ochronosis (permanent blue-black skin darkening)",
+    "skin_effect": "Cytotoxic to melanocytes, ochronosis risk",
+    "allergen": null
+  },
+  {
+    "name": "Mercury",
+    "aliases": [
+      "Calomel",
+      "Mercurous chloride",
+      "Ammoniated mercury"
+    ],
+    "e_number": null,
+    "type": "Heavy Metal",
+    "safety_level": "avoid",
+    "reason": "Banned globally under Minamata Convention; severe nephrotoxicity and neurotoxicity",
+    "skin_effect": "Severe systemic poison",
+    "allergen": null
+  },
+  {
+    "name": "Lead Acetate",
+    "aliases": [
+      "Sugar of lead"
+    ],
+    "e_number": null,
+    "type": "Hair Dye Colorant",
+    "safety_level": "avoid",
+    "reason": "Banned in hair cosmetics in EU, Canada, and US FDA (2021); neurotoxin and reproductive toxin",
+    "skin_effect": "Severe neurotoxic absorption",
+    "allergen": null
+  },
+  {
+    "name": "Triclosan",
+    "aliases": [
+      "Irgasan DP 300"
+    ],
+    "e_number": null,
+    "type": "Antimicrobial Biocide",
+    "safety_level": "avoid",
+    "reason": "Banned in consumer antiseptic soaps by US FDA; disrupts thyroid function, bioaccumulates in aquatic life",
+    "skin_effect": "Endocrine disruptor, contact allergen",
+    "allergen": null
+  },
+  {
+    "name": "Oxybenzone",
+    "aliases": [
+      "Benzophenone-3",
+      "BP-3"
+    ],
+    "e_number": null,
+    "type": "Chemical UV Filter",
+    "safety_level": "avoid",
+    "reason": "Banned in Hawaii, Key West, Palau due to coral reef bleaching; absorbs systemically with endocrine activity",
+    "skin_effect": "Photoallergic contact dermatitis",
+    "allergen": null
+  },
+  {
+    "name": "Octinoxate",
+    "aliases": [
+      "Octyl methoxycinnamate",
+      "OMC"
+    ],
+    "e_number": null,
+    "type": "Chemical UV Filter",
+    "safety_level": "caution",
+    "reason": "Reef hazard; hormone mimic that affects estrogenic and thyroid signaling in animal models",
+    "skin_effect": "Moderate sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Avobenzone",
+    "aliases": [
+      "Butyl Methoxydibenzoylmethane",
+      "Parsol 1789"
+    ],
+    "e_number": null,
+    "type": "Chemical UV Filter",
+    "safety_level": "safe",
+    "reason": "Broad-spectrum UVA absorber; requires photostabilizers to prevent degradation in sunlight",
+    "skin_effect": "Low irritation profile",
+    "allergen": null
+  },
+  {
+    "name": "Zinc Oxide",
+    "aliases": [
+      "CI 77947",
+      "Zinc White"
+    ],
+    "e_number": null,
+    "type": "Physical UV Filter / Mineral",
+    "safety_level": "safe",
+    "reason": "Gold standard mineral UV shield; non-nano form is reef safe and hypoallergenic",
+    "skin_effect": "Calming, anti-inflammatory, excellent for acne/rosacea",
+    "allergen": null
+  },
+  {
+    "name": "Niacinamide",
+    "aliases": [
+      "Vitamin B3",
+      "Nicotinamide"
+    ],
+    "e_number": null,
+    "type": "Active Cosmeceutical",
+    "safety_level": "safe",
+    "reason": "Essential cellular cofactor; reduces hyperpigmentation, stimulates ceramide synthesis",
+    "skin_effect": "Restores barrier, shrinks appearance of pores, soothes redness",
+    "allergen": null
+  },
+  {
+    "name": "Hyaluronic Acid",
+    "aliases": [
+      "Sodium Hyaluronate",
+      "Hydrolyzed Hyaluronic Acid"
+    ],
+    "e_number": null,
+    "type": "Humectant",
+    "safety_level": "safe",
+    "reason": "Holds 1000x its molecular weight in water; endogenous glycosaminoglycan",
+    "skin_effect": "Intensely hydrating, plumps fine lines, accelerates healing",
+    "allergen": null
+  },
+  {
+    "name": "Glycerin",
+    "aliases": [
+      "Glycerol",
+      "E422"
+    ],
+    "e_number": "E422",
+    "type": "Humectant",
+    "safety_level": "safe",
+    "reason": "Natural polyol humectant; universally tolerated in food and cosmetics",
+    "skin_effect": "Gold standard skin-identical hydrator",
+    "allergen": null
+  },
+  {
+    "name": "Salicylic Acid",
+    "aliases": [
+      "2-Hydroxybenzoic acid",
+      "BHA active"
+    ],
+    "e_number": null,
+    "type": "Beta Hydroxy Acid",
+    "safety_level": "safe",
+    "reason": "Lipophilic exfoliant; penetrates sebum-filled pores to dissolve blackheads and acne plugs",
+    "skin_effect": "Acne clearing, keratolytic, anti-inflammatory",
+    "allergen": null
+  },
+  {
+    "name": "Glycolic Acid",
+    "aliases": [
+      "Hydroacetic acid"
+    ],
+    "e_number": null,
+    "type": "Alpha Hydroxy Acid",
+    "safety_level": "safe",
+    "reason": "Smallest molecular AHA; dissolves desmosomes to shed dead stratum corneum cells",
+    "skin_effect": "Brightens, smooths texture, increases sun sensitivity",
+    "allergen": null
+  },
+  {
+    "name": "Retinol",
+    "aliases": [
+      "Vitamin A",
+      "Retinyl Palmitate"
+    ],
+    "e_number": null,
+    "type": "Active Cosmeceutical",
+    "safety_level": "caution",
+    "reason": "Gold standard anti-aging retinoid; EU limits concentration to 0.3% due to hypervitaminosis A risk",
+    "skin_effect": "Cellular renewal, boosts collagen; causes retinoid dermatitis initially",
+    "allergen": null
+  },
+  {
+    "name": "Ceramide NP",
+    "aliases": [
+      "Ceramide 3",
+      "N-stearoyl-phytosphingosine"
+    ],
+    "e_number": null,
+    "type": "Skin-Identical Lipid",
+    "safety_level": "safe",
+    "reason": "Fundamental component of intercellular lipid bilayer; prevents transepidermal water loss",
+    "skin_effect": "Barrier repair, eczema relief, restores suppleness",
+    "allergen": null
+  },
+  {
+    "name": "Centella Asiatica Extract",
+    "aliases": [
+      "Cica",
+      "Gotu Kola",
+      "Madecassoside"
+    ],
+    "e_number": null,
+    "type": "Botanical Extract",
+    "safety_level": "safe",
+    "reason": "Medicinal herb with triterpenoids that speed wound healing and collagen synthesis",
+    "skin_effect": "Supreme soothing, calms redness and irritated skin",
+    "allergen": null
+  },
+  {
+    "name": "Dimethicone",
+    "aliases": [
+      "Polydimethylsiloxane",
+      "PDMS"
+    ],
+    "e_number": null,
+    "type": "Silicone Emollient",
+    "safety_level": "safe",
+    "reason": "Inert silicone polymer; creates breathable occlusive seal over compromised skin",
+    "skin_effect": "Silky velvet feel, non-comedogenic protectant",
+    "allergen": null
+  },
+  {
+    "name": "Mineral Oil",
+    "aliases": [
+      "Paraffinum Liquidum",
+      "Liquid Petrolatum"
+    ],
+    "e_number": null,
+    "type": "Emollient",
+    "safety_level": "safe",
+    "reason": "USP cosmetic-grade refined mineral oil is non-comedogenic and highly effective occlusive",
+    "skin_effect": "Superior moisture barrier prevention",
+    "allergen": null
+  },
+  {
+    "name": "Fragrance / Parfum",
+    "aliases": [
+      "Parfum",
+      "Aroma"
+    ],
+    "e_number": null,
+    "type": "Scent Blend",
+    "safety_level": "caution",
+    "reason": "Undisclosed proprietary chemical mix; #1 cause of contact cosmetic allergies",
+    "skin_effect": "Sensitizing, potential allergen for sensitive skin",
+    "allergen": null
+  },
+  {
+    "name": "Linalool",
+    "aliases": [
+      "3,7-Dimethylocta-1,6-dien-3-ol"
+    ],
+    "e_number": null,
+    "type": "Fragrance Allergen",
+    "safety_level": "caution",
+    "reason": "Naturally occurring terpene in lavender; oxidizes on exposure to air into potent allergen",
+    "skin_effect": "Common patch-test allergen",
+    "allergen": null
+  },
+  {
+    "name": "Limonene",
+    "aliases": [
+      "D-Limonene",
+      "Dipentene"
+    ],
+    "e_number": null,
+    "type": "Fragrance Allergen",
+    "safety_level": "caution",
+    "reason": "Citrus rind terpene; oxidized hydroperoxides trigger contact dermatitis",
+    "skin_effect": "Citrus sensitization, phototoxic in pure sunlight",
+    "allergen": null
+  },
+  {
+    "name": "Citronellol",
+    "aliases": [
+      "3,7-Dimethyloct-6-en-1-ol"
+    ],
+    "e_number": null,
+    "type": "Fragrance Allergen",
+    "safety_level": "caution",
+    "reason": "Rose scent terpene; listed on EU 26 fragrance allergen register",
+    "skin_effect": "Sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Benzyl Alcohol",
+    "aliases": [
+      "Phenylmethanol",
+      "E1519"
+    ],
+    "e_number": "E1519",
+    "type": "Preservative / Solvent",
+    "safety_level": "safe",
+    "reason": "Cosmos-approved aromatic alcohol; safe preservative, mild contact allergen in high doses",
+    "skin_effect": "Mild preservative, low irritation",
+    "allergen": null
+  },
+  {
+    "name": "Phenoxyethanol",
+    "aliases": [
+      "2-Phenoxyethanol",
+      "Rose ether"
+    ],
+    "e_number": null,
+    "type": "Preservative",
+    "safety_level": "safe",
+    "reason": "Industry standard safe preservative replacement for parabens; restricted to 1.0% in EU/Japan",
+    "skin_effect": "Safe at 1%, rare irritant in infants",
+    "allergen": null
+  },
+  {
+    "name": "Ethylhexylglycerin",
+    "aliases": [
+      "Octoxyglycerin"
+    ],
+    "e_number": null,
+    "type": "Preservative Booster",
+    "safety_level": "safe",
+    "reason": "Glycerin derivative; boosts antimicrobial efficacy of phenoxyethanol while conditioning",
+    "skin_effect": "Gentle conditioning, rare contact dermatitis",
+    "allergen": null
+  },
+  {
+    "name": "Disodium EDTA",
+    "aliases": [
+      "Edetate Disodium"
+    ],
+    "e_number": null,
+    "type": "Chelating Agent",
+    "safety_level": "safe",
+    "reason": "Binds heavy metal ions to prevent formula oxidation and degradation",
+    "skin_effect": "Enhances skin penetration of actives",
+    "allergen": null
+  },
+  {
+    "name": "Panthenol",
+    "aliases": [
+      "Pro-Vitamin B5",
+      "D-Panthenol"
+    ],
+    "e_number": null,
+    "type": "Humectant / Soothing Agent",
+    "safety_level": "safe",
+    "reason": "Precursor of coenzyme A; penetrates deep into hair and epidermis to hydrate and calm",
+    "skin_effect": "Deeply healing, soothes sunburn and chapped skin",
+    "allergen": null
+  },
+  {
+    "name": "Allantoin",
+    "aliases": [
+      "Glyoxyldiureide"
+    ],
+    "e_number": null,
+    "type": "Skin Protectant",
+    "safety_level": "safe",
+    "reason": "Derived from comfrey root or synthetic; keratolytic agent promoting cell proliferation",
+    "skin_effect": "Soothes itching, smooths roughness, anti-irritant",
+    "allergen": null
+  },
+  {
+    "name": "Tea Tree Leaf Oil",
+    "aliases": [
+      "Melaleuca Alternifolia Leaf Oil"
+    ],
+    "e_number": null,
+    "type": "Essential Oil",
+    "safety_level": "safe",
+    "reason": "Potent antimicrobial containing terpinen-4-ol; kills Cutibacterium acnes bacteria",
+    "skin_effect": "Purifying for blemishes; can dry or sensitize if unbuffered",
+    "allergen": null
+  },
+  {
+    "name": "Jojoba Seed Oil",
+    "aliases": [
+      "Simmondsia Chinensis Seed Oil"
+    ],
+    "e_number": null,
+    "type": "Liquid Wax Ester",
+    "safety_level": "safe",
+    "reason": "Biochemically identical to human sebum wax esters; balances oil without clogging",
+    "skin_effect": "Non-comedogenic (rating 1-2), mimics natural sebum",
+    "allergen": null
+  },
+  {
+    "name": "Shea Butter",
+    "aliases": [
+      "Butyrospermum Parkii Butter"
+    ],
+    "e_number": null,
+    "type": "Plant Butter",
+    "safety_level": "safe",
+    "reason": "Rich in cinnamic acid, lupeol, and oleic/stearic lipids; intense moisture barrier",
+    "skin_effect": "Ultra-nourishing, low comedogenic rating (0-2)",
+    "allergen": null
+  },
+  {
+    "name": "Coconut Oil",
+    "aliases": [
+      "Cocos Nucifera Oil"
+    ],
+    "e_number": null,
+    "type": "Plant Fat",
+    "safety_level": "safe",
+    "reason": "Medium-chain triglycerides rich in lauric acid; antimicrobial properties",
+    "skin_effect": "Very comedogenic (rating 4); great for hair/body, avoid on acne-prone face",
+    "allergen": null
+  },
+  {
+    "name": "Argan Oil",
+    "aliases": [
+      "Argania Spinosa Kernel Oil"
+    ],
+    "e_number": null,
+    "type": "Plant Oil",
+    "safety_level": "safe",
+    "reason": "Moroccan liquid gold rich in squalene, carotenes, and linoleic acid",
+    "skin_effect": "Silky sheen, boosts elasticity, low comedogenic (rating 0)",
+    "allergen": null
+  },
+  {
+    "name": "Squalane",
+    "aliases": [
+      "Hydrogenated Squalene"
+    ],
+    "e_number": null,
+    "type": "Hydrocarbon Emollient",
+    "safety_level": "safe",
+    "reason": "Hydrogenated sugarcane or olive lipid; ultra-stable, identical to skin squalene",
+    "skin_effect": "Weightless hydration, completely non-comedogenic (rating 0)",
+    "allergen": null
+  },
+  {
+    "name": "Beeswax",
+    "aliases": [
+      "Cera Alba"
+    ],
+    "e_number": "E901",
+    "type": "Natural Wax",
+    "safety_level": "safe",
+    "reason": "Honeybee secretion wax; provides structural integrity to lip balms and salves",
+    "skin_effect": "Protective breathable film, hypoallergenic",
+    "allergen": null
+  },
+  {
+    "name": "Caffeine",
+    "aliases": [
+      "1,3,7-Trimethylxanthine"
+    ],
+    "e_number": null,
+    "type": "Alkaloid",
+    "safety_level": "safe",
+    "reason": "Stimulant alkaloid; vasoconstrictor that temporarily reduces under-eye puffiness and stimulates scalp microcirculation",
+    "skin_effect": "De-puffing, stimulates hair follicles",
+    "allergen": null
+  },
+  {
+    "name": "Peppermint Oil",
+    "aliases": [
+      "Mentha Piperita Oil",
+      "Menthol"
+    ],
+    "e_number": null,
+    "type": "Essential Oil",
+    "safety_level": "caution",
+    "reason": "Activates TRPM8 cold-sensing receptors; cooling sensation can cause contact dermatitis",
+    "skin_effect": "Cooling stimulant; potential irritant on broken skin",
+    "allergen": null
+  },
+  {
+    "name": "Lactic Acid",
+    "aliases": [
+      "2-Hydroxypropanoic acid",
+      "E270"
+    ],
+    "e_number": "E270",
+    "type": "AHA / Acidity Regulator",
+    "safety_level": "safe",
+    "reason": "Gentle AHA from milk fermentation; exfoliates while simultaneously boosting natural moisturizing factors (NMF)",
+    "skin_effect": "Smooths texture, refines pigment, deeply hydrates",
+    "allergen": null
+  },
+  {
+    "name": "Tartaric Acid",
+    "aliases": [
+      "E334"
+    ],
+    "e_number": "E334",
+    "type": "Acidity Regulator",
+    "safety_level": "safe",
+    "reason": "Natural grape fruit acid; provides tart taste and buffers cosmetics",
+    "skin_effect": "AHA exfoliant",
+    "allergen": null
+  },
+  {
+    "name": "Malic Acid",
+    "aliases": [
+      "E296",
+      "Apple Acid"
+    ],
+    "e_number": "E296",
+    "type": "Acidity Regulator",
+    "safety_level": "safe",
+    "reason": "Fruit acid from green apples; synergizes with other AHAs",
+    "skin_effect": "Improves skin smoothness",
+    "allergen": null
+  },
+  {
+    "name": "Gluconolactone",
+    "aliases": [
+      "PHA",
+      "Gluconic Acid Lactone"
+    ],
+    "e_number": "E575",
+    "type": "Polyhydroxy Acid",
+    "safety_level": "safe",
+    "reason": "Large molecular PHA; gentlest chemical exfoliant suitable for rosacea and eczema",
+    "skin_effect": "Gentle renewal, zero stinging, barrier strengthening",
+    "allergen": null
+  },
+  {
+    "name": "Kojic Acid",
+    "aliases": [
+      "5-Hydroxy-2-(hydroxymethyl)-4-pyrone"
+    ],
+    "e_number": null,
+    "type": "Skin Brightener",
+    "safety_level": "caution",
+    "reason": "Mushroom fermentation tyrosinase inhibitor; capped at 1% in EU due to skin sensitization potential",
+    "skin_effect": "Fades dark melasma and sun spots",
+    "allergen": null
+  },
+  {
+    "name": "Alpha-Arbutin",
+    "aliases": [
+      "4-Hydroxyphenyl alpha-D-glucopyranoside"
+    ],
+    "e_number": null,
+    "type": "Skin Brightener",
+    "safety_level": "safe",
+    "reason": "Biosynthetic bearberry derivative; safe hydroquinone alternative capped at 2% in EU",
+    "skin_effect": "Targets dark spots without cytotoxic bleaching",
+    "allergen": null
+  },
+  {
+    "name": "Tranexamic Acid",
+    "aliases": [
+      "TXA",
+      "trans-4-(Aminomethyl)cyclohexanecarboxylic acid"
+    ],
+    "e_number": null,
+    "type": "Brightening Cosmeceutical",
+    "safety_level": "safe",
+    "reason": "Plasmin inhibitor; inhibits UV-induced melanogenesis and inflammatory melasma pathways",
+    "skin_effect": "Superb for stubborn melasma and post-inflammatory erythema",
+    "allergen": null
+  },
+  {
+    "name": "Bakuchiol",
+    "aliases": [
+      "Psoralea Corylifolia Seed Extract"
+    ],
+    "e_number": null,
+    "type": "Phytochemical Retinol Alternative",
+    "safety_level": "safe",
+    "reason": "Ayurvedic babchi extract; stimulates retinol receptors without peeling, flaking, or photosensitivity",
+    "skin_effect": "Collagen booster, pregnancy-safe retinol alternative",
+    "allergen": null
+  },
+  {
+    "name": "Green Tea Leaf Extract",
+    "aliases": [
+      "Camellia Sinensis Leaf Extract",
+      "EGCG"
+    ],
+    "e_number": null,
+    "type": "Botanical Antioxidant",
+    "safety_level": "safe",
+    "reason": "Dense in epigallocatechin gallate; potent scavenger of free radicals and sebum suppressor",
+    "skin_effect": "Anti-inflammatory, controls sebum, UV photo-protection",
+    "allergen": null
+  },
+  {
+    "name": "Aloe Barbadensis Leaf Juice",
+    "aliases": [
+      "Aloe Vera Juice",
+      "Aloe Extract"
+    ],
+    "e_number": null,
+    "type": "Botanical Soother",
+    "safety_level": "safe",
+    "reason": "Rich in acemannan polysaccharides, vitamins, and minerals; cools and hydrates burns",
+    "skin_effect": "Cooling, anti-inflammatory, relieves sunburn",
+    "allergen": null
+  },
+  {
+    "name": "Tea Leaf Extract",
+    "aliases": [
+      "Black Tea Extract",
+      "Kombucha"
+    ],
+    "e_number": null,
+    "type": "Botanical Extract",
+    "safety_level": "safe",
+    "reason": "Fermented tea rich in polyphenols and B-vitamins",
+    "skin_effect": "Antioxidant protectant",
+    "allergen": null
+  },
+  {
+    "name": "Glutathione",
+    "aliases": [
+      "GSH",
+      "L-Glutathione"
+    ],
+    "e_number": null,
+    "type": "Tripeptide Antioxidant",
+    "safety_level": "safe",
+    "reason": "Master intracellular antioxidant; shifts melanin synthesis toward lighter pheomelanin",
+    "skin_effect": "Brightens tone, neutralizes reactive oxygen species",
+    "allergen": null
+  },
+  {
+    "name": "Collagen Peptide",
+    "aliases": [
+      "Hydrolyzed Marine Collagen",
+      "Collagen Hydrolysate"
+    ],
+    "e_number": null,
+    "type": "Protein Peptide",
+    "safety_level": "safe",
+    "reason": "Short chain amino acids supporting joint mobility and epidermal dermal matrix density",
+    "skin_effect": "Surface moisture film, plumps hydration",
+    "allergen": "fish"
+  },
+  {
+    "name": "Fish Oil",
+    "aliases": [
+      "Omega-3 EPA/DHA",
+      "Menhaden Oil"
+    ],
+    "e_number": null,
+    "type": "Nutraceutical Lipid",
+    "safety_level": "safe",
+    "reason": "Rich in cardioprotective eicosapentaenoic and docosahexaenoic fatty acids; fish allergen",
+    "skin_effect": "Internal lipid barrier reinforcement",
+    "allergen": "fish"
+  },
+  {
+    "name": "Egg White Powder",
+    "aliases": [
+      "Egg Albumen"
+    ],
+    "e_number": null,
+    "type": "Protein",
+    "safety_level": "safe",
+    "reason": "High biological value protein; major allergen (ovalbumin)",
+    "skin_effect": "Temporary tightening mask",
+    "allergen": "egg"
+  },
+  {
+    "name": "Egg Yolk Lecithin",
+    "aliases": [
+      "Ovothin"
+    ],
+    "e_number": null,
+    "type": "Emulsifier",
+    "safety_level": "safe",
+    "reason": "Rich in choline and lutein; contains egg allergens",
+    "skin_effect": "Emollient",
+    "allergen": "egg"
+  },
+  {
+    "name": "Gluten",
+    "aliases": [
+      "Vital Wheat Gluten"
+    ],
+    "e_number": null,
+    "type": "Protein",
+    "safety_level": "caution",
+    "reason": "Structural cereal protein; causes severe immune intestinal blunting in celiac disease",
+    "skin_effect": "Hair conditioning hydrolysate",
+    "allergen": "gluten"
+  },
+  {
+    "name": "Barley Malt Extract",
+    "aliases": [
+      "Malt",
+      "Hordeum Vulgare"
+    ],
+    "e_number": null,
+    "type": "Grain Sweetener",
+    "safety_level": "caution",
+    "reason": "Rich roasted flavor; contains hordein gluten fractions (unsafe for celiacs)",
+    "skin_effect": "Conditioning",
+    "allergen": "gluten"
+  },
+  {
+    "name": "Soy Sauce",
+    "aliases": [
+      "Hydrolyzed Soy Sauce"
+    ],
+    "e_number": null,
+    "type": "Condiment",
+    "safety_level": "caution",
+    "reason": "Fermented condiment containing wheat (gluten) and soybean allergens",
+    "skin_effect": "Neutral",
+    "allergen": "soy"
+  },
+  {
+    "name": "Mustard Powder",
+    "aliases": [
+      "Sinapis Alba",
+      "Brassica Juncea"
+    ],
+    "e_number": null,
+    "type": "Spice",
+    "safety_level": "caution",
+    "reason": "Pungent glucosinolates; recognized EU major food allergen",
+    "skin_effect": "Rubefacient (causes flushing)",
+    "allergen": "mustard"
+  },
+  {
+    "name": "Sesame Seed Oil",
+    "aliases": [
+      "Sesamum Indicum Oil",
+      "Til Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Oil",
+    "safety_level": "caution",
+    "reason": "High sesamol antioxidant oil; major allergen added to US FASTER Act list",
+    "skin_effect": "Warm nourishing massage oil",
+    "allergen": "sesame"
+  },
+  {
+    "name": "Celery Seed Extract",
+    "aliases": [
+      "Apium Graveolens"
+    ],
+    "e_number": null,
+    "type": "Spice Extract",
+    "safety_level": "caution",
+    "reason": "Contains apiin; potent food allergen triggering anaphylaxis in sensitive European cohorts",
+    "skin_effect": "Neutral",
+    "allergen": "celery"
+  },
+  {
+    "name": "Lupin Flour",
+    "aliases": [
+      "Lupinus Albus"
+    ],
+    "e_number": null,
+    "type": "Legume Flour",
+    "safety_level": "caution",
+    "reason": "High protein gluten-free baking alternative; severe allergen cross-reactive with peanut allergy",
+    "skin_effect": "Neutral",
+    "allergen": "lupin"
+  },
+  {
+    "name": "Molluscs Extract",
+    "aliases": [
+      "Oyster extract",
+      "Clam broth"
+    ],
+    "e_number": null,
+    "type": "Flavor Base",
+    "safety_level": "caution",
+    "reason": "High zinc umami extract; recognized seafood allergen",
+    "skin_effect": "Neutral",
+    "allergen": "molluscs"
+  },
+  {
+    "name": "Crustacean Shell Extract",
+    "aliases": [
+      "Glucosamine Sulfate",
+      "Chitosan"
+    ],
+    "e_number": null,
+    "type": "Joint Supplement / Thickener",
+    "safety_level": "caution",
+    "reason": "Shellfish allergen risk (tropomyosin contamination)",
+    "skin_effect": "Film forming",
+    "allergen": "crustaceans"
+  },
+  {
+    "name": "Sodium Fluoride",
+    "aliases": [
+      "NaF"
+    ],
+    "e_number": null,
+    "type": "Dental Anti-Caries Active",
+    "safety_level": "safe",
+    "reason": "Remineralizes dental enamel forming fluorapatite; strictly capped in children's toothpastes",
+    "skin_effect": "Not for skin",
+    "allergen": null
+  },
+  {
+    "name": "Hydrated Silica",
+    "aliases": [
+      "Silicon Dioxide",
+      "Silica"
+    ],
+    "e_number": "E551",
+    "type": "Abrasive / Anti-caking",
+    "safety_level": "safe",
+    "reason": "Gentle dental cleaning abrasive; inert anti-caking agent in powdered seasonings",
+    "skin_effect": "Mattifying, absorbs excess sebum",
+    "allergen": null
+  },
+  {
+    "name": "Sorbitol",
+    "aliases": [
+      "E420"
+    ],
+    "e_number": "E420",
+    "type": "Humectant / Sweetener",
+    "safety_level": "safe",
+    "reason": "Tooth-friendly polyol sweetener and moisture retainer in toothpaste",
+    "skin_effect": "Humectant, hydrates barrier",
+    "allergen": null
+  },
+  {
+    "name": "Zinc Pyrithione",
+    "aliases": [
+      "ZPT"
+    ],
+    "e_number": null,
+    "type": "Anti-Dandruff Active",
+    "safety_level": "avoid",
+    "reason": "Banned in cosmetics in EU (2022) as Reprotoxic 1B; suppresses Malassezia scalp yeast",
+    "skin_effect": "Cytotoxic to yeast, restricted globally",
+    "allergen": null
+  },
+  {
+    "name": "Ketoconazole",
+    "aliases": [
+      "Nizoral active"
+    ],
+    "e_number": null,
+    "type": "Antifungal Active",
+    "safety_level": "safe",
+    "reason": "Clinical antifungal targeting seborrheic dermatitis and fungal acne; regulated drug in high %",
+    "skin_effect": "Clears Malassezia folliculitis",
+    "allergen": null
+  },
+  {
+    "name": "Salicylic Acid (Hair)",
+    "aliases": [
+      "Scalp Exfoliant"
+    ],
+    "e_number": null,
+    "type": "Keratolytic",
+    "safety_level": "safe",
+    "reason": "Removes adherent dandruff flakes and regulates scalp sebum",
+    "skin_effect": "Clarifies scalp",
+    "allergen": null
+  },
+  {
+    "name": "Biotin",
+    "aliases": [
+      "Vitamin B7",
+      "Vitamin H"
+    ],
+    "e_number": null,
+    "type": "Vitamin",
+    "safety_level": "safe",
+    "reason": "Essential enzyme cofactor for keratin synthesis; prevents brittle nails and thinning hair",
+    "skin_effect": "Nourishes hair cortex and nails",
+    "allergen": null
+  },
+  {
+    "name": "Keratin",
+    "aliases": [
+      "Hydrolyzed Keratin"
+    ],
+    "e_number": null,
+    "type": "Structural Protein",
+    "safety_level": "safe",
+    "reason": "Fills porous gaps in damaged hair cuticle to restore tensile strength",
+    "skin_effect": "Protective protein layer",
+    "allergen": null
+  },
+  {
+    "name": "Cetearyl Alcohol",
+    "aliases": [
+      "Cetostearyl Alcohol"
+    ],
+    "e_number": null,
+    "type": "Fatty Alcohol",
+    "safety_level": "safe",
+    "reason": "Non-drying conditioning fatty alcohol; stabilizes emulsions and softens hair/skin",
+    "skin_effect": "Non-irritating emollient",
+    "allergen": null
+  },
+  {
+    "name": "Stearyl Alcohol",
+    "aliases": [
+      "1-Octadecanol"
+    ],
+    "e_number": null,
+    "type": "Fatty Alcohol",
+    "safety_level": "safe",
+    "reason": "Emollient and thickener derived from natural fatty acids; non-drying",
+    "skin_effect": "Rich smoothing emollient",
+    "allergen": null
+  },
+  {
+    "name": "Cetyl Alcohol",
+    "aliases": [
+      "1-Hexadecanol"
+    ],
+    "e_number": null,
+    "type": "Fatty Alcohol",
+    "safety_level": "safe",
+    "reason": "Gentle fatty alcohol emollient; excellent safe moisturizer base",
+    "skin_effect": "Softening, non-drying",
+    "allergen": null
+  },
+  {
+    "name": "Isopropanol",
+    "aliases": [
+      "Isopropyl Alcohol",
+      "Rubbing Alcohol"
+    ],
+    "e_number": null,
+    "type": "Solvent / Astringent",
+    "safety_level": "caution",
+    "reason": "Fast evaporating drying alcohol; strips natural lipids and causes stinging/barrier damage",
+    "skin_effect": "Severely dehydrating, compromises barrier",
+    "allergen": null
+  },
+  {
+    "name": "Denatured Alcohol",
+    "aliases": [
+      "Alcohol Denat.",
+      "Ethanol"
+    ],
+    "e_number": null,
+    "type": "Solvent / Penetration Enhancer",
+    "safety_level": "caution",
+    "reason": "Provides quick-dry texture in toners/sunscreens, but dries out sensitive or dry skin types",
+    "skin_effect": "Drying at high concentrations (>10%)",
+    "allergen": null
+  },
+  {
+    "name": "Behentrimonium Chloride",
+    "aliases": [
+      "Docosyltrimethylammonium chloride"
+    ],
+    "e_number": null,
+    "type": "Cationic Conditioning Agent",
+    "safety_level": "safe",
+    "reason": "Cationic surfactant that neutralizes negative static charges on hair strands; untangles knots",
+    "skin_effect": "Conditioning for hair, mild eye irritant",
+    "allergen": null
+  },
+  {
+    "name": "Polyquaternium-10",
+    "aliases": [
+      "Cellulose Quat"
+    ],
+    "e_number": null,
+    "type": "Conditioning Polymer",
+    "safety_level": "safe",
+    "reason": "Water-soluble polymer providing anti-static slip to wet hair",
+    "skin_effect": "Substantive conditioning film",
+    "allergen": null
+  },
+  {
+    "name": "Ammonium Lauryl Sulfate",
+    "aliases": [
+      "ALS"
+    ],
+    "e_number": null,
+    "type": "Anionic Surfactant",
+    "safety_level": "caution",
+    "reason": "High-foaming cleansing surfactant; moderately harsh on sensitive scalps",
+    "skin_effect": "Can cause dry scalp and pruritus",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Cocoyl Isethionate",
+    "aliases": [
+      "SCI",
+      "Baby Foam"
+    ],
+    "e_number": null,
+    "type": "Mild Surfactant",
+    "safety_level": "safe",
+    "reason": "Gentle coconut-based surfactant; creates dense, luxurious lather without stripping acid mantle",
+    "skin_effect": "Hypoallergenic, ultra-mild cleanser",
+    "allergen": null
+  },
+  {
+    "name": "Lauryl Glucoside",
+    "aliases": [
+      "D-Glucopyranoside"
+    ],
+    "e_number": null,
+    "type": "Non-ionic Surfactant",
+    "safety_level": "safe",
+    "reason": "Plant-derived non-ionic surfactant from glucose and coconut; completely biodegradable",
+    "skin_effect": "Extremely gentle, safe for baby bath",
+    "allergen": null
+  },
+  {
+    "name": "Coco-Glucoside",
+    "aliases": [
+      "Coconut Glucoside"
+    ],
+    "e_number": null,
+    "type": "Non-ionic Surfactant",
+    "safety_level": "safe",
+    "reason": "Ultra-mild natural surfactant; cleanses without disrupting stratum corneum lipids",
+    "skin_effect": "Baby-safe, non-irritating",
+    "allergen": null
+  },
+  {
+    "name": "Zinc Carbonate",
+    "aliases": [
+      "Basic zinc carbonate"
+    ],
+    "e_number": null,
+    "type": "Mineral Stabilizer",
+    "safety_level": "safe",
+    "reason": "Scalp soothe ingredient that pairs with antifungals to optimize particle size and efficacy",
+    "skin_effect": "Mild soothing mineral",
+    "allergen": null
+  },
+  {
+    "name": "Coal Tar",
+    "aliases": [
+      "Liquor Carbonis Detergens"
+    ],
+    "e_number": null,
+    "type": "Keratoplastic Drug",
+    "safety_level": "avoid",
+    "reason": "Carcinogen in high industrial doses; banned in EU cosmetics; restricted to prescription psoriasis shampoos",
+    "skin_effect": "Phototoxic, staining, severe odor",
+    "allergen": null
+  },
+  {
+    "name": "Resorcinol",
+    "aliases": [
+      "1,3-Benzenediol"
+    ],
+    "e_number": null,
+    "type": "Hair Dye Coupler",
+    "safety_level": "avoid",
+    "reason": "Endocrine disruptor affecting thyroid function; strong sensitizer in permanent hair colors",
+    "skin_effect": "Known occupational contact allergen",
+    "allergen": null
+  },
+  {
+    "name": "p-Phenylenediamine",
+    "aliases": [
+      "PPD",
+      "1,4-Diaminobenzene"
+    ],
+    "e_number": null,
+    "type": "Oxidative Hair Dye",
+    "safety_level": "avoid",
+    "reason": "Potent allergenic dye base causing severe head/facial edema and contact dermatitis in sensitized people",
+    "skin_effect": "Severe contact sensitizer / blister trigger",
+    "allergen": null
+  },
+  {
+    "name": "Cyclopentasiloxane",
+    "aliases": [
+      "D5",
+      "Decamethylcyclopentasiloxane"
+    ],
+    "e_number": null,
+    "type": "Volatile Silicone",
+    "safety_level": "caution",
+    "reason": "Restricted in rinse-off cosmetics in EU (<0.1%) due to environmental persistence and bioaccumulation in aquatic life",
+    "skin_effect": "Weightless slip, non-comedogenic",
+    "allergen": null
+  },
+  {
+    "name": "Cyclotetrasiloxane",
+    "aliases": [
+      "D4"
+    ],
+    "e_number": null,
+    "type": "Volatile Silicone",
+    "safety_level": "avoid",
+    "reason": "Banned in EU cosmetics; classified as Reprotoxic 1B and persistent bioaccumulative toxicant (PBT)",
+    "skin_effect": "Endocrine / reproductive hazard",
+    "allergen": null
+  },
+  {
+    "name": "Benzophenone-1",
+    "aliases": [
+      "BP-1"
+    ],
+    "e_number": null,
+    "type": "UV Stabilizer",
+    "safety_level": "avoid",
+    "reason": "Endocrine disruptor; estrogenic activity found in in-vitro assays; restricted in clean cosmetics",
+    "skin_effect": "Sensitizer",
+    "allergen": null
+  },
+  {
+    "name": "Phthalates",
+    "aliases": [
+      "DBP",
+      "DEHP",
+      "Dibutyl Phthalate"
+    ],
+    "e_number": null,
+    "type": "Plasticizer / Fragrance Carrier",
+    "safety_level": "avoid",
+    "reason": "Banned in cosmetics in EU and toy plastics globally; proven anti-androgenic endocrine disruptor",
+    "skin_effect": "Reproductive toxicant",
+    "allergen": null
+  },
+  {
+    "name": "Ethanolamine",
+    "aliases": [
+      "MEA",
+      "Monoethanolamine"
+    ],
+    "e_number": null,
+    "type": "pH Adjuster",
+    "safety_level": "caution",
+    "reason": "Used in ammonia-free hair dyes; can form carcinogenic nitrosamines if contaminated",
+    "skin_effect": "Scalp irritant at alkaline pH",
+    "allergen": null
+  },
+  {
+    "name": "Triethanolamine",
+    "aliases": [
+      "TEA"
+    ],
+    "e_number": null,
+    "type": "pH Adjuster / Emulsifier",
+    "safety_level": "caution",
+    "reason": "Capped in cosmetics due to potential formation of carcinogenic nitrosamines in presence of nitrates",
+    "skin_effect": "Mild sensitizer in leave-on products",
+    "allergen": null
+  },
+  {
+    "name": "Caramel Color",
+    "aliases": [
+      "E150d",
+      "E150a",
+      "Ammonia Caramel"
+    ],
+    "e_number": "E150d",
+    "type": "Food Color",
+    "safety_level": "caution",
+    "reason": "Class IV caramel contains 4-methylimidazole (4-MEI), a suspected carcinogen with strict statutory limits",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Phosphoric Acid",
+    "aliases": [
+      "E338"
+    ],
+    "e_number": "E338",
+    "type": "Acidulant",
+    "safety_level": "caution",
+    "reason": "Gives cola sharp tangy flavor; high intake leaches calcium from bones, accelerating osteoporosis and enamel wear",
+    "skin_effect": "Corrosive in pure form",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Polyphosphate",
+    "aliases": [
+      "E452i",
+      "HMP",
+      "Sodium Hexametaphosphate"
+    ],
+    "e_number": "E452i",
+    "type": "Sequestrant / Emulsifier",
+    "safety_level": "safe",
+    "reason": "Food-grade phosphate binder in processed cheese; safe within daily recommended phosphate limits",
+    "skin_effect": "Water softening mineral",
+    "allergen": null
+  },
+  {
+    "name": "Calcium Carbonate",
+    "aliases": [
+      "E170",
+      "Chalk"
+    ],
+    "e_number": "E170",
+    "type": "Mineral / Abrasive",
+    "safety_level": "safe",
+    "reason": "Natural dietary calcium mineral; safe gentle dental polisher and antacid",
+    "skin_effect": "Mattifying, absorbs perspiration",
+    "allergen": null
+  },
+  {
+    "name": "Magnesium Stearate",
+    "aliases": [
+      "E470b"
+    ],
+    "e_number": "E470b",
+    "type": "Flow Agent / Anti-adherent",
+    "safety_level": "safe",
+    "reason": "Essential pharmaceutical tablet lubricant; non-toxic vegetable-derived fatty salt",
+    "skin_effect": "Silky makeup binder",
+    "allergen": null
+  },
+  {
+    "name": "Microcrystalline Cellulose",
+    "aliases": [
+      "E460i",
+      "MCC"
+    ],
+    "e_number": "E460i",
+    "type": "Bulking Agent / Dietary Fiber",
+    "safety_level": "safe",
+    "reason": "Purified natural wood/cotton plant fiber; passes through digestive tract completely unabsorbed",
+    "skin_effect": "Non-irritant texture powder",
+    "allergen": null
+  },
+  {
+    "name": "Silicon Dioxide (Food)",
+    "aliases": [
+      "E551",
+      "Aerosil"
+    ],
+    "e_number": "E551",
+    "type": "Anti-caking Agent",
+    "safety_level": "safe",
+    "reason": "Prevents clumping in spice powders; amorphous food grade is inert and biologically unreactive",
+    "skin_effect": "Sebum absorber",
+    "allergen": null
+  },
+  {
+    "name": "Potassium Citrate",
+    "aliases": [
+      "E332"
+    ],
+    "e_number": "E332",
+    "type": "Acidity Regulator / Electrolyte",
+    "safety_level": "safe",
+    "reason": "Electrolyte buffer; prevents urinary kidney stones and balances acidity in sports beverages",
+    "skin_effect": "Buffering agent",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Citrate",
+    "aliases": [
+      "E331",
+      "Trisodium Citrate"
+    ],
+    "e_number": "E331",
+    "type": "Emulsifying Salt / Acidity Regulator",
+    "safety_level": "safe",
+    "reason": "Crucial for silky smooth melted cheese dips; completely safe salt of citric acid",
+    "skin_effect": "Buffers formulation pH to physiological 5.5",
+    "allergen": null
+  },
+  {
+    "name": "Rosemary Leaf Extract",
+    "aliases": [
+      "Rosmarinus Officinalis Extract",
+      "E392"
+    ],
+    "e_number": "E392",
+    "type": "Natural Antioxidant",
+    "safety_level": "safe",
+    "reason": "Dense in carnosic acid; natural clean-label replacement for synthetic BHT in frying oils",
+    "skin_effect": "Potent botanical antioxidant, purifying",
+    "allergen": null
+  },
+  {
+    "name": "Curcumin",
+    "aliases": [
+      "E100",
+      "Turmeric Extract",
+      "CI 75300"
+    ],
+    "e_number": "E100",
+    "type": "Natural Color / Active",
+    "safety_level": "safe",
+    "reason": "Ayurvedic polyphenol; potent natural anti-inflammatory and free-radical scavenger",
+    "skin_effect": "Soothes acne, brightens complexion, antimicrobial",
+    "allergen": null
+  },
+  {
+    "name": "Spirulina Extract",
+    "aliases": [
+      "Arthrospira Platensis"
+    ],
+    "e_number": null,
+    "type": "Superfood / Natural Color",
+    "safety_level": "safe",
+    "reason": "Blue-green microalgae rich in phycocyanin protein and B-complex vitamins",
+    "skin_effect": "Antioxidant nutrient infusion",
+    "allergen": null
+  },
+  {
+    "name": "Beta Carotene",
+    "aliases": [
+      "E160a",
+      "Provitamin A"
+    ],
+    "e_number": "E160a",
+    "type": "Natural Color / Vitamin",
+    "safety_level": "safe",
+    "reason": "Natural orange carotenoid converted to retinol in liver as required; zero risk of toxicity",
+    "skin_effect": "Protects against photo-oxidative stress",
+    "allergen": null
+  },
+  {
+    "name": "Beetroot Red",
+    "aliases": [
+      "E162",
+      "Betanin"
+    ],
+    "e_number": "E162",
+    "type": "Natural Color",
+    "safety_level": "safe",
+    "reason": "Water-soluble natural pigment extracted from red beets; completely non-toxic clean food dye",
+    "skin_effect": "Natural blush tint",
+    "allergen": null
+  },
+  {
+    "name": "Paprika Extract",
+    "aliases": [
+      "E160c",
+      "Capsanthin"
+    ],
+    "e_number": "E160c",
+    "type": "Natural Color / Flavor",
+    "safety_level": "safe",
+    "reason": "Natural carotenoid pigment from sweet bell peppers; safe natural food colorant",
+    "skin_effect": "Mild warming stimulant",
+    "allergen": null
+  },
+  {
+    "name": "L-Carnitine",
+    "aliases": [
+      "Levocarnitine"
+    ],
+    "e_number": null,
+    "type": "Nutraceutical Amino Acid",
+    "safety_level": "safe",
+    "reason": "Transports long-chain fatty acids into mitochondria for ATP beta-oxidation",
+    "skin_effect": "Regulates sebum output in dermis",
+    "allergen": null
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "aliases": [
+      "Creatine"
+    ],
+    "e_number": null,
+    "type": "Ergogenic Supplement",
+    "safety_level": "safe",
+    "reason": "Most thoroughly researched sports supplement; regenerates phosphocreatine ATP during anaerobic exercise",
+    "skin_effect": "Boosts cellular ATP repair in dermal fibroblasts",
+    "allergen": null
+  },
+  {
+    "name": "Ashwagandha Extract",
+    "aliases": [
+      "Withania Somnifera",
+      "Indian Ginseng"
+    ],
+    "e_number": null,
+    "type": "Ayurvedic Adaptogen",
+    "safety_level": "safe",
+    "reason": "Rich in withanolides; clinically validated reduction in serum cortisol and perceived stress",
+    "skin_effect": "Stress-defense antioxidant",
+    "allergen": null
+  },
+  {
+    "name": "Ginger Root Extract",
+    "aliases": [
+      "Zingiber Officinale"
+    ],
+    "e_number": null,
+    "type": "Botanical Carminative",
+    "safety_level": "safe",
+    "reason": "Contains gingerols; relieves gastrointestinal nausea and eases exercise-induced soreness",
+    "skin_effect": "Microcirculation booster, warming",
+    "allergen": null
+  },
+  {
+    "name": "Cardamom",
+    "aliases": [
+      "Elettaria Cardamomum",
+      "Elaichi"
+    ],
+    "e_number": null,
+    "type": "Natural Spice",
+    "safety_level": "safe",
+    "reason": "Queen of spices; aromatic terpene cineole aids digestion and freshens breath",
+    "skin_effect": "Purifying astringent",
+    "allergen": null
+  },
+  {
+    "name": "Cinnamon",
+    "aliases": [
+      "Cinnamomum Verum",
+      "Dalchini"
+    ],
+    "e_number": null,
+    "type": "Natural Spice",
+    "safety_level": "safe",
+    "reason": "Cinnamaldehyde improves peripheral insulin sensitivity; Ceylon variety has lowest coumarin",
+    "skin_effect": "Warming stimulant; can sensitize in high pure concentration",
+    "allergen": null
+  },
+  {
+    "name": "Clove Oil",
+    "aliases": [
+      "Syzygium Aromaticum",
+      "Eugenol"
+    ],
+    "e_number": null,
+    "type": "Essential Oil / Spice",
+    "safety_level": "safe",
+    "reason": "High eugenol content provides dental analgesic and antiseptic benefits",
+    "skin_effect": "Dental soothing; patch-test allergen in cosmetics",
+    "allergen": null
+  },
+  {
+    "name": "Fenugreek Seed Extract",
+    "aliases": [
+      "Trigonella Foenum-Graecum",
+      "Methi"
+    ],
+    "e_number": null,
+    "type": "Botanical Galactagogue",
+    "safety_level": "safe",
+    "reason": "High 4-hydroxyisoleucine; regulates postprandial glucose surges and supports lactation",
+    "skin_effect": "Soothing mucilage hair mask",
+    "allergen": null
+  },
+  {
+    "name": "Cumin",
+    "aliases": [
+      "Cuminum Cyminum",
+      "Jeera"
+    ],
+    "e_number": null,
+    "type": "Natural Spice",
+    "safety_level": "safe",
+    "reason": "Stimulates pancreatic digestive enzymes; traditional carminative culinary spice",
+    "skin_effect": "Antioxidant",
+    "allergen": null
+  },
+  {
+    "name": "Black Pepper",
+    "aliases": [
+      "Piper Nigrum",
+      "Piperine"
+    ],
+    "e_number": null,
+    "type": "Natural Spice / Bio-enhancer",
+    "safety_level": "safe",
+    "reason": "Piperine enhances bioavailability of curcumin by up to 2000% via glucuronidation inhibition",
+    "skin_effect": "Rubefacient stimulant",
+    "allergen": null
+  },
+  {
+    "name": "Tamarind Pulp",
+    "aliases": [
+      "Tamarindus Indica",
+      "Imli"
+    ],
+    "e_number": null,
+    "type": "Fruit Extract",
+    "safety_level": "safe",
+    "reason": "Dense in tartaric acid and natural pectin; traditional tangy culinary seasoning",
+    "skin_effect": "Natural AHA fruit acid exfoliant",
+    "allergen": null
+  },
+  {
+    "name": "Garlic Powder",
+    "aliases": [
+      "Allium Sativum"
+    ],
+    "e_number": null,
+    "type": "Spice / Functional Food",
+    "safety_level": "safe",
+    "reason": "Allicin precursor enzymes support cardiovascular arterial elasticity and healthy cholesterol",
+    "skin_effect": "Antimicrobial (strong odor)",
+    "allergen": null
+  },
+  {
+    "name": "Onion Powder",
+    "aliases": [
+      "Allium Cepa"
+    ],
+    "e_number": null,
+    "type": "Spice",
+    "safety_level": "safe",
+    "reason": "Rich source of dietary quercetin flavonoid antioxidant",
+    "skin_effect": "Scar healing extract in topical gels",
+    "allergen": null
+  },
+  {
+    "name": "Yeast Extract",
+    "aliases": [
+      "Nutritional Yeast",
+      "Autolyzed Yeast"
+    ],
+    "e_number": null,
+    "type": "Flavor Seasoning",
+    "safety_level": "safe",
+    "reason": "Natural source of free glutamates, nucleotides, and B-complex vitamins; clean umami",
+    "skin_effect": "Ferment filtrate barrier support",
+    "allergen": null
+  },
+  {
+    "name": "Bifida Ferment Lysate",
+    "aliases": [
+      "Probiotic Ferment"
+    ],
+    "e_number": null,
+    "type": "Postbiotic Active",
+    "safety_level": "safe",
+    "reason": "Fermentation lysate; clinically boosts cellular DNA repair enzymes following UV exposure",
+    "skin_effect": "Strengthens microbiome barrier, lowers reactivity",
+    "allergen": null
+  },
+  {
+    "name": "Galactomyces Ferment Filtrate",
+    "aliases": [
+      "Pitera",
+      "Sake Yeast Ferment"
+    ],
+    "e_number": null,
+    "type": "Fermented Active",
+    "safety_level": "safe",
+    "reason": "Nutrient-dense byproduct of fermented sake yeast; rich in organic acids, minerals and peptides",
+    "skin_effect": "Refines pore texture, evens skin tone, luminous glow",
+    "allergen": null
+  },
+  {
+    "name": "Oat Kernel Extract",
+    "aliases": [
+      "Avena Sativa Kernel Extract",
+      "Colloidal Oatmeal"
+    ],
+    "e_number": null,
+    "type": "Botanical Protectant",
+    "safety_level": "safe",
+    "reason": "FDA-recognized skin protectant; avenanthramides extinguish itch and histamine flares",
+    "skin_effect": "Supreme relief for eczema, psoriasis and diaper rash",
+    "allergen": "gluten"
+  },
+  {
+    "name": "Calendula Flower Extract",
+    "aliases": [
+      "Calendula Officinalis",
+      "Marigold Extract"
+    ],
+    "e_number": null,
+    "type": "Botanical Soother",
+    "safety_level": "safe",
+    "reason": "Flavonoid-dense herbal remedy for soothing infant diaper rash and tender perineal tissue",
+    "skin_effect": "Rapidly accelerates tissue healing and soothes erythema",
+    "allergen": null
+  },
+  {
+    "name": "Chamomile Flower Extract",
+    "aliases": [
+      "Chamomilla Recutita",
+      "Bisabolol"
+    ],
+    "e_number": null,
+    "type": "Botanical Soother",
+    "safety_level": "safe",
+    "reason": "Bisabolol and chamazulene deliver targeted anti-spasmodic and anti-inflammatory relief",
+    "skin_effect": "Soothes irritated baby skin, hypoallergenic",
+    "allergen": null
+  },
+  {
+    "name": "Zinc Stearate",
+    "aliases": [
+      "Zinc soap"
+    ],
+    "e_number": "E470b",
+    "type": "Mineral Salt",
+    "safety_level": "safe",
+    "reason": "Repels water while improving skin adhesion and slip in baby powders and blushes",
+    "skin_effect": "Water-repellent protective barrier",
+    "allergen": null
+  },
+  {
+    "name": "Corn Starch",
+    "aliases": [
+      "Zea Mays Starch"
+    ],
+    "e_number": null,
+    "type": "Plant Starch",
+    "safety_level": "safe",
+    "reason": "Safe talc-free absorbent alternative for preventing chafing and infant diaper moisture rash",
+    "skin_effect": "Silky, talc-free moisture absorption",
+    "allergen": null
+  },
+  {
+    "name": "Talc",
+    "aliases": [
+      "Hydrous magnesium silicate",
+      "Cosmetic Talc"
+    ],
+    "e_number": "E553b",
+    "type": "Mineral Absorbent",
+    "safety_level": "avoid",
+    "reason": "Risk of natural asbestos contamination in geological mining deposits; IARC 2A probable carcinogen in perineum",
+    "skin_effect": "Inhalation hazard for infants; ovarian cancer lawsuits",
+    "allergen": null
+  },
+  {
+    "name": "Borax",
+    "aliases": [
+      "Sodium borate",
+      "Disodium tetraborate"
+    ],
+    "e_number": null,
+    "type": "Alkaline Salt",
+    "safety_level": "avoid",
+    "reason": "Banned in baby cosmetics in EU and Canada; reproductive and developmental toxicant",
+    "skin_effect": "Severe absorption through broken infant skin",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Hypochlorite",
+    "aliases": [
+      "Liquid Bleach",
+      "Chlorine Bleach"
+    ],
+    "e_number": null,
+    "type": "Household Disinfectant",
+    "safety_level": "avoid",
+    "reason": "Corrosive oxidizer; emits lethal chlorine gas if mixed with acidic cleaners or toilet bowl cleaners",
+    "skin_effect": "Chemical caustic burn on contact",
+    "allergen": null
+  },
+  {
+    "name": "Hydrochloric Acid (Toilet)",
+    "aliases": [
+      "Muriatic Acid"
+    ],
+    "e_number": null,
+    "type": "Mineral Acid Cleaner",
+    "safety_level": "avoid",
+    "reason": "Extremely corrosive acidic toilet cleaner; requires mandatory childproof cap and PPE",
+    "skin_effect": "Severe tissue necrosis upon skin contact",
+    "allergen": null
+  },
+  {
+    "name": "Benzalkonium Chloride",
+    "aliases": [
+      "BKC",
+      "BAK"
+    ],
+    "e_number": null,
+    "type": "Quaternary Ammonium Compound",
+    "safety_level": "caution",
+    "reason": "Antimicrobial surface cleaner; respiratory asthmagen and skin sensitizer in concentrated solutions",
+    "skin_effect": "Skin sensitizer, eye irritant",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Carbonate",
+    "aliases": [
+      "Washing Soda",
+      "Soda Ash"
+    ],
+    "e_number": "E500i",
+    "type": "Detergent Builder",
+    "safety_level": "safe",
+    "reason": "Softens hard wash water by precipitating calcium and magnesium ions; safe laundry mineral",
+    "skin_effect": "Alkaline defatting agent (wear gloves)",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Bicarbonate",
+    "aliases": [
+      "Baking Soda",
+      "E500ii"
+    ],
+    "e_number": "E500ii",
+    "type": "Leavening Agent / Buffer",
+    "safety_level": "safe",
+    "reason": "Gentle food leavener; releases CO2 bubbles under oven heat; natural odor neutralizer",
+    "skin_effect": "Mild alkaline bath buffer, safe",
+    "allergen": null
+  },
+  {
+    "name": "Enzyme Blend (Protease, Amylase)",
+    "aliases": [
+      "Subtilisin",
+      "Bio-Enzymes"
+    ],
+    "e_number": null,
+    "type": "Bio-Detergent Active",
+    "safety_level": "safe",
+    "reason": "Biological enzymes digest protein, starch, and grass stains at cold 30C wash temperatures",
+    "skin_effect": "Can irritate cracked sensitive hands (wear gloves)",
+    "allergen": null
+  },
+  {
+    "name": "Linear Alkylbenzene Sulfonate",
+    "aliases": [
+      "LAS",
+      "Sodium Dodecylbenzenesulfonate"
+    ],
+    "e_number": null,
+    "type": "Synthetic Detergent",
+    "safety_level": "caution",
+    "reason": "Dominant laundry detergent surfactant; high grease-cutting efficiency; biodegradable",
+    "skin_effect": "Defats epidermis, wear gloves for manual wash",
+    "allergen": null
+  },
+  {
+    "name": "Optical Brightener",
+    "aliases": [
+      "Fluorescent Whitening Agent",
+      "FWA"
+    ],
+    "e_number": null,
+    "type": "Detergent Additive",
+    "safety_level": "caution",
+    "reason": "Absorbs UV light and re-emits blue light to mask fabric yellowing; slow environmental breakdown",
+    "skin_effect": "Possible contact dermatitis in sensitive skin",
+    "allergen": null
+  },
+  {
+    "name": "Calcium Propionate",
+    "aliases": [
+      "E282"
+    ],
+    "e_number": "E282",
+    "type": "Bread Mold Inhibitor",
+    "safety_level": "safe",
+    "reason": "Safely inhibits fungal rope and mold spores in commercial sliced bread; metabolizes as propionic acid",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Sodium Diacetate",
+    "aliases": [
+      "E262ii"
+    ],
+    "e_number": "E262ii",
+    "type": "Seasoning / Preservative",
+    "safety_level": "safe",
+    "reason": "Provides salt-and-vinegar tang while inhibiting bacterial growth in potato chips and snacks",
+    "skin_effect": "Neutral",
+    "allergen": null
+  },
+  {
+    "name": "Silicon Oil",
+    "aliases": [
+      "Dimethiconol"
+    ],
+    "e_number": null,
+    "type": "Hair Serum Conditioning Active",
+    "safety_level": "safe",
+    "reason": "Seals split ends and protects hair shaft from high heat styling irons (up to 230C)",
+    "skin_effect": "Silky coating, non-penetrating",
+    "allergen": null
+  },
+  {
+    "name": "Glutamic Acid",
+    "aliases": [
+      "E620"
+    ],
+    "e_number": "E620",
+    "type": "Amino Acid",
+    "safety_level": "safe",
+    "reason": "Naturally occurring excitatory neurotransmitter amino acid; builds cellular peptides",
+    "skin_effect": "Skin-identical moisturizing factor",
+    "allergen": null
+  },
+  {
+    "name": "Soybean Oil",
+    "aliases": [
+      "Glycine Soja Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Oil",
+    "safety_level": "safe",
+    "reason": "High polyunsaturated linoleic acid oil; highly refined forms have allergens stripped",
+    "skin_effect": "Restorative plant lipid, comedogenic rating 3",
+    "allergen": "soy"
+  },
+  {
+    "name": "Sunflower Seed Oil",
+    "aliases": [
+      "Helianthus Annuus Seed Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Oil",
+    "safety_level": "safe",
+    "reason": "Rich in linoleic acid; clinically shown to enhance infant skin barrier without causing dermatitis",
+    "skin_effect": "Superb barrier protectant, non-comedogenic (rating 0-1)",
+    "allergen": null
+  },
+  {
+    "name": "Olive Oil",
+    "aliases": [
+      "Olea Europaea Fruit Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Oil",
+    "safety_level": "safe",
+    "reason": "Extra virgin oil rich in oleic acid and squalene; beneficial for internal cardiometabolic health",
+    "skin_effect": "Rich emollient; high oleic content can disrupt infant skin barrier",
+    "allergen": null
+  },
+  {
+    "name": "Mustard Oil",
+    "aliases": [
+      "Sarson ka Tel",
+      "Brassica Nigra Oil"
+    ],
+    "e_number": null,
+    "type": "Vegetable Oil",
+    "safety_level": "caution",
+    "reason": "High erucic acid content; restricted for edible consumption in US/EU; widely used in Indian cooking",
+    "skin_effect": "Pungent warming oil; can irritate delicate infant skin",
+    "allergen": "mustard"
+  }
+]
